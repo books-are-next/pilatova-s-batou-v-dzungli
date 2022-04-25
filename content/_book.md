@@ -15,6 +15,8 @@ meta:
   isbn: 978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2
 readingOrder:
   - s_batou_v_dzungli__002.html
+  - s_batou_v_dzungli__005.html
+  - s_batou_v_dzungli__006.html
   - s_batou_v_dzungli__007.html
   - s_batou_v_dzungli__008.html
   - s_batou_v_dzungli__009.html
@@ -66,6 +68,12 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: s_batou_v_dzungli__005.html
+        title: věnování
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__006.html
+        title: citát
+        hiddenTitle: false
       - link: s_batou_v_dzungli__007.html
         title: Jan Antonín Baťa
         hiddenTitle: false
