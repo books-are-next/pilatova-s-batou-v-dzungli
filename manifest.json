@@ -1,17 +1,17 @@
 {
   "author": "Markéta Pilátová",
   "contenttype": "prose",
-  "identifier": "pilatova-s-batou-v-dzungli-4e2190b",
+  "identifier": "pilatova-s-batou-v-dzungli-bc23d9a",
   "isbn": "978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2",
   "languagecode": "cs",
   "modified": "2021-09-01T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "S Baťou v džungli",
-  "revision": "4e2190b",
+  "revision": "bc23d9a",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 19:07:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650913649110
+    "date": "Mon Apr 25 2022 19:23:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650914638980
   },
   "documents": [
     {
@@ -23,6 +23,46 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
+      "next": "s_batou_v_dzungli__005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "S Baťou v džungli",
+      "file": "s_batou_v_dzungli__005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "s_batou_v_dzungli__002.html",
+      "next": "s_batou_v_dzungli__006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "S Baťou v džungli",
+      "file": "s_batou_v_dzungli__006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "s_batou_v_dzungli__005.html",
       "next": "s_batou_v_dzungli__007.html",
       "toc": [
         {
@@ -41,8 +81,8 @@
       "chars": 3802,
       "ideas": 4,
       "role": "chapter",
-      "order": 1,
-      "prev": "s_batou_v_dzungli__002.html",
+      "order": 3,
+      "prev": "s_batou_v_dzungli__006.html",
       "next": "s_batou_v_dzungli__008.html",
       "toc": [
         {
@@ -61,7 +101,7 @@
       "chars": 9294,
       "ideas": 9,
       "role": "chapter",
-      "order": 2,
+      "order": 4,
       "prev": "s_batou_v_dzungli__007.html",
       "next": "s_batou_v_dzungli__009.html",
       "toc": [
@@ -81,7 +121,7 @@
       "chars": 9113,
       "ideas": 16,
       "role": "chapter",
-      "order": 3,
+      "order": 5,
       "prev": "s_batou_v_dzungli__008.html",
       "next": "s_batou_v_dzungli__010.html",
       "toc": [
@@ -101,7 +141,7 @@
       "chars": 7071,
       "ideas": 10,
       "role": "chapter",
-      "order": 4,
+      "order": 6,
       "prev": "s_batou_v_dzungli__009.html",
       "next": "s_batou_v_dzungli__011.html",
       "toc": [
@@ -121,7 +161,7 @@
       "chars": 8748,
       "ideas": 8,
       "role": "chapter",
-      "order": 5,
+      "order": 7,
       "prev": "s_batou_v_dzungli__010.html",
       "next": "s_batou_v_dzungli__012.html",
       "toc": [
@@ -141,7 +181,7 @@
       "chars": 5168,
       "ideas": 4,
       "role": "chapter",
-      "order": 6,
+      "order": 8,
       "prev": "s_batou_v_dzungli__011.html",
       "next": "s_batou_v_dzungli__013.html",
       "toc": [
@@ -161,7 +201,7 @@
       "chars": 15246,
       "ideas": 17,
       "role": "chapter",
-      "order": 7,
+      "order": 9,
       "prev": "s_batou_v_dzungli__012.html",
       "next": "s_batou_v_dzungli__014.html",
       "toc": [
@@ -181,7 +221,7 @@
       "chars": 12439,
       "ideas": 10,
       "role": "chapter",
-      "order": 8,
+      "order": 10,
       "prev": "s_batou_v_dzungli__013.html",
       "next": "s_batou_v_dzungli__015.html",
       "toc": [
@@ -201,7 +241,7 @@
       "chars": 8281,
       "ideas": 8,
       "role": "chapter",
-      "order": 9,
+      "order": 11,
       "prev": "s_batou_v_dzungli__014.html",
       "next": "s_batou_v_dzungli__016.html",
       "toc": [
@@ -221,7 +261,7 @@
       "chars": 6032,
       "ideas": 6,
       "role": "chapter",
-      "order": 10,
+      "order": 12,
       "prev": "s_batou_v_dzungli__015.html",
       "next": "s_batou_v_dzungli__017.html",
       "toc": [
@@ -241,7 +281,7 @@
       "chars": 18075,
       "ideas": 120,
       "role": "chapter",
-      "order": 11,
+      "order": 13,
       "prev": "s_batou_v_dzungli__016.html",
       "next": "s_batou_v_dzungli__018.html",
       "toc": [
@@ -261,7 +301,7 @@
       "chars": 20355,
       "ideas": 39,
       "role": "chapter",
-      "order": 12,
+      "order": 14,
       "prev": "s_batou_v_dzungli__017.html",
       "next": "s_batou_v_dzungli__019.html",
       "toc": [
@@ -281,7 +321,7 @@
       "chars": 16248,
       "ideas": 15,
       "role": "chapter",
-      "order": 13,
+      "order": 15,
       "prev": "s_batou_v_dzungli__018.html",
       "next": "s_batou_v_dzungli__020.html",
       "toc": [
@@ -301,7 +341,7 @@
       "chars": 7693,
       "ideas": 11,
       "role": "chapter",
-      "order": 14,
+      "order": 16,
       "prev": "s_batou_v_dzungli__019.html",
       "next": "s_batou_v_dzungli__021.html",
       "toc": [
@@ -321,7 +361,7 @@
       "chars": 16420,
       "ideas": 13,
       "role": "chapter",
-      "order": 15,
+      "order": 17,
       "prev": "s_batou_v_dzungli__020.html",
       "next": "s_batou_v_dzungli__022.html",
       "toc": [
@@ -341,7 +381,7 @@
       "chars": 3149,
       "ideas": 3,
       "role": "chapter",
-      "order": 16,
+      "order": 18,
       "prev": "s_batou_v_dzungli__021.html",
       "next": "s_batou_v_dzungli__023.html",
       "toc": [
@@ -361,7 +401,7 @@
       "chars": 15289,
       "ideas": 24,
       "role": "chapter",
-      "order": 17,
+      "order": 19,
       "prev": "s_batou_v_dzungli__022.html",
       "next": "s_batou_v_dzungli__024.html",
       "toc": [
@@ -381,7 +421,7 @@
       "chars": 4884,
       "ideas": 4,
       "role": "chapter",
-      "order": 18,
+      "order": 20,
       "prev": "s_batou_v_dzungli__023.html",
       "next": "s_batou_v_dzungli__025.html",
       "toc": [
@@ -401,7 +441,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 19,
+      "order": 21,
       "prev": "s_batou_v_dzungli__024.html",
       "next": "s_batou_v_dzungli__026.html",
       "toc": [
@@ -421,7 +461,7 @@
       "chars": 3512,
       "ideas": 49,
       "role": "chapter",
-      "order": 20,
+      "order": 22,
       "prev": "s_batou_v_dzungli__025.html",
       "next": "s_batou_v_dzungli__027.html",
       "toc": [
@@ -441,7 +481,7 @@
       "chars": 3331,
       "ideas": 6,
       "role": "chapter",
-      "order": 21,
+      "order": 23,
       "prev": "s_batou_v_dzungli__026.html",
       "next": "s_batou_v_dzungli__028.html",
       "toc": [
@@ -461,7 +501,7 @@
       "chars": 14493,
       "ideas": 10,
       "role": "chapter",
-      "order": 22,
+      "order": 24,
       "prev": "s_batou_v_dzungli__027.html",
       "next": "s_batou_v_dzungli__029.html",
       "toc": [
@@ -481,7 +521,7 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 23,
+      "order": 25,
       "prev": "s_batou_v_dzungli__028.html",
       "next": "s_batou_v_dzungli__030.html",
       "toc": [
@@ -501,7 +541,7 @@
       "chars": 2257,
       "ideas": 4,
       "role": "chapter",
-      "order": 24,
+      "order": 26,
       "prev": "s_batou_v_dzungli__029.html",
       "next": "s_batou_v_dzungli__031.html",
       "toc": [
@@ -521,7 +561,7 @@
       "chars": 3453,
       "ideas": 4,
       "role": "chapter",
-      "order": 25,
+      "order": 27,
       "prev": "s_batou_v_dzungli__030.html",
       "next": "s_batou_v_dzungli__032.html",
       "toc": [
@@ -541,7 +581,7 @@
       "chars": 16761,
       "ideas": 12,
       "role": "chapter",
-      "order": 26,
+      "order": 28,
       "prev": "s_batou_v_dzungli__031.html",
       "next": "s_batou_v_dzungli__033.html",
       "toc": [
@@ -561,7 +601,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 27,
+      "order": 29,
       "prev": "s_batou_v_dzungli__032.html",
       "next": "s_batou_v_dzungli__034.html",
       "toc": [
@@ -581,7 +621,7 @@
       "chars": 7234,
       "ideas": 6,
       "role": "chapter",
-      "order": 28,
+      "order": 30,
       "prev": "s_batou_v_dzungli__033.html",
       "next": "s_batou_v_dzungli__035.html",
       "toc": [
@@ -601,7 +641,7 @@
       "chars": 6056,
       "ideas": 21,
       "role": "chapter",
-      "order": 29,
+      "order": 31,
       "prev": "s_batou_v_dzungli__034.html",
       "next": "s_batou_v_dzungli__036.html",
       "toc": [
@@ -621,7 +661,7 @@
       "chars": 11419,
       "ideas": 20,
       "role": "chapter",
-      "order": 30,
+      "order": 32,
       "prev": "s_batou_v_dzungli__035.html",
       "next": "s_batou_v_dzungli__037.html",
       "toc": [
@@ -641,7 +681,7 @@
       "chars": 5163,
       "ideas": 4,
       "role": "chapter",
-      "order": 31,
+      "order": 33,
       "prev": "s_batou_v_dzungli__036.html",
       "next": "s_batou_v_dzungli__038.html",
       "toc": [
@@ -661,7 +701,7 @@
       "chars": 3889,
       "ideas": 5,
       "role": "chapter",
-      "order": 32,
+      "order": 34,
       "prev": "s_batou_v_dzungli__037.html",
       "next": "s_batou_v_dzungli__039.html",
       "toc": [
@@ -681,7 +721,7 @@
       "chars": 78495,
       "ideas": 112,
       "role": "chapter",
-      "order": 33,
+      "order": 35,
       "prev": "s_batou_v_dzungli__038.html",
       "next": "s_batou_v_dzungli__040.html",
       "toc": [
@@ -701,7 +741,7 @@
       "chars": 30875,
       "ideas": 53,
       "role": "chapter",
-      "order": 34,
+      "order": 36,
       "prev": "s_batou_v_dzungli__039.html",
       "next": "s_batou_v_dzungli__041.html",
       "toc": [
@@ -721,7 +761,7 @@
       "chars": 18462,
       "ideas": 16,
       "role": "chapter",
-      "order": 35,
+      "order": 37,
       "prev": "s_batou_v_dzungli__040.html",
       "next": "s_batou_v_dzungli__042.html",
       "toc": [
@@ -741,7 +781,7 @@
       "chars": 3110,
       "ideas": 4,
       "role": "chapter",
-      "order": 36,
+      "order": 38,
       "prev": "s_batou_v_dzungli__041.html",
       "next": "s_batou_v_dzungli__043.html",
       "toc": [
@@ -761,7 +801,7 @@
       "chars": 11965,
       "ideas": 9,
       "role": "chapter",
-      "order": 37,
+      "order": 39,
       "prev": "s_batou_v_dzungli__042.html",
       "next": "s_batou_v_dzungli__044.html",
       "toc": [
@@ -781,7 +821,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 38,
+      "order": 40,
       "prev": "s_batou_v_dzungli__043.html",
       "next": "s_batou_v_dzungli__045.html",
       "toc": [
@@ -801,7 +841,7 @@
       "chars": 4991,
       "ideas": 4,
       "role": "chapter",
-      "order": 39,
+      "order": 41,
       "prev": "s_batou_v_dzungli__044.html",
       "next": "s_batou_v_dzungli__046.html",
       "toc": [
@@ -821,7 +861,7 @@
       "chars": 9026,
       "ideas": 5,
       "role": "chapter",
-      "order": 40,
+      "order": 42,
       "prev": "s_batou_v_dzungli__045.html",
       "next": "s_batou_v_dzungli__047.html",
       "toc": [
@@ -841,7 +881,7 @@
       "chars": 5523,
       "ideas": 7,
       "role": "chapter",
-      "order": 41,
+      "order": 43,
       "prev": "s_batou_v_dzungli__046.html",
       "next": "s_batou_v_dzungli__048.html",
       "toc": [
@@ -861,7 +901,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 42,
+      "order": 44,
       "prev": "s_batou_v_dzungli__047.html",
       "next": "s_batou_v_dzungli__049.html",
       "toc": [
@@ -881,7 +921,7 @@
       "chars": 4132,
       "ideas": 3,
       "role": "chapter",
-      "order": 43,
+      "order": 45,
       "prev": "s_batou_v_dzungli__048.html",
       "next": "s_batou_v_dzungli__050.html",
       "toc": [
@@ -901,7 +941,7 @@
       "chars": 5590,
       "ideas": 11,
       "role": "chapter",
-      "order": 44,
+      "order": 46,
       "prev": "s_batou_v_dzungli__049.html",
       "next": "s_batou_v_dzungli__051.html",
       "toc": [
@@ -921,7 +961,7 @@
       "chars": 4977,
       "ideas": 4,
       "role": "chapter",
-      "order": 45,
+      "order": 47,
       "prev": "s_batou_v_dzungli__050.html",
       "next": "s_batou_v_dzungli__052.html",
       "toc": [
@@ -941,7 +981,7 @@
       "chars": 5643,
       "ideas": 6,
       "role": "chapter",
-      "order": 46,
+      "order": 48,
       "prev": "s_batou_v_dzungli__051.html",
       "next": "s_batou_v_dzungli__053.html",
       "toc": [
@@ -961,7 +1001,7 @@
       "chars": 3382,
       "ideas": 4,
       "role": "chapter",
-      "order": 47,
+      "order": 49,
       "prev": "s_batou_v_dzungli__052.html",
       "next": "colophon.html",
       "toc": [
