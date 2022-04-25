@@ -1,0 +1,451 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "S Baťou v džungli",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Markéta Pilátová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-09-01T00:00:00.000Z",
+    "published": "2021-09-01T11:04:24.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/s_batou_v_dzungli__054.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_s_batou_v_dzungli.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Jan Antonín Baťa",
+      "href": "OEBPS/Text/s_batou_v_dzungli__007.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__008.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__009.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__010.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__011.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Maďarský malíř",
+      "href": "OEBPS/Text/s_batou_v_dzungli__012.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__013.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__014.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__015.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__016.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Jindřich Waldes",
+      "href": "OEBPS/Text/s_batou_v_dzungli__017.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__018.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Fabrika",
+      "href": "OEBPS/Text/s_batou_v_dzungli__019.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__020.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Laďa Pinga",
+      "href": "OEBPS/Text/s_batou_v_dzungli__021.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__022.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__023.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__024.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__025.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__026.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "Fabrika",
+      "href": "OEBPS/Text/s_batou_v_dzungli__027.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__028.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__029.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__030.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__031.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__032.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__033.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__034.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__035.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__036.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__037.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__038.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__039.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__040.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__041.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__042.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__043.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__044.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__045.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "Ludmila",
+      "href": "OEBPS/Text/s_batou_v_dzungli__046.xhtml#_idParaDest-40"
+    },
+    {
+      "title": "Edita",
+      "href": "OEBPS/Text/s_batou_v_dzungli__047.xhtml#_idParaDest-41"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__048.xhtml#_idParaDest-42"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__049.xhtml#_idParaDest-43"
+    },
+    {
+      "title": "Jan Antonín",
+      "href": "OEBPS/Text/s_batou_v_dzungli__050.xhtml#_idParaDest-44"
+    },
+    {
+      "title": "Ljubodrag",
+      "href": "OEBPS/Text/s_batou_v_dzungli__051.xhtml#_idParaDest-45"
+    },
+    {
+      "title": "Dolores",
+      "href": "OEBPS/Text/s_batou_v_dzungli__052.xhtml#_idParaDest-46"
+    },
+    {
+      "title": "Poznámka autorky: Nedělní metoda",
+      "href": "OEBPS/Text/s_batou_v_dzungli__053.xhtml#_idParaDest-47"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>S Baťou v džungli</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Jan Antonín Baťa</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__007.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__008.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__009.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__010.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__011.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Maďarský malíř</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__012.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__013.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__014.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__015.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__016.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Jindřich Waldes</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__017.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__018.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Fabrika</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__019.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__020.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Laďa Pinga</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__021.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__022.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__023.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__024.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__025.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__026.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Fabrika</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__027.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__028.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__029.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__030.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__031.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__032.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__033.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__034.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__035.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__036.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__037.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__038.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__039.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__040.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__041.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__042.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__043.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__044.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__045.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Ludmila</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__046.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Edita</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__047.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__048.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__049.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Jan Antonín</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__050.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Ljubodrag</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__051.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Dolores</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__052.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Poznámka autorky: Nedělní metoda</text>
+      </navLabel>
+      <content src="Text/s_batou_v_dzungli__053.xhtml#_idParaDest-47"/>
+    </navPoint>
+  </navMap>
+</ncx>

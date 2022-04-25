@@ -1,0 +1,1049 @@
+{
+  "params": {
+    "metadata": {
+      "title": "S Baťou v džungli",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Markéta Pilátová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-01T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "s_batou_v_dzungli__001.md",
+            "xhtml": "s_batou_v_dzungli__001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__002.md",
+            "xhtml": "s_batou_v_dzungli__002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__003.md",
+            "xhtml": "s_batou_v_dzungli__003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__004.md",
+            "xhtml": "s_batou_v_dzungli__004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__005.md",
+            "xhtml": "s_batou_v_dzungli__005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__006.md",
+            "xhtml": "s_batou_v_dzungli__006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__007.md",
+            "xhtml": "s_batou_v_dzungli__007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__008.md",
+            "xhtml": "s_batou_v_dzungli__008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__009.md",
+            "xhtml": "s_batou_v_dzungli__009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__010.md",
+            "xhtml": "s_batou_v_dzungli__010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__011.md",
+            "xhtml": "s_batou_v_dzungli__011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__012.md",
+            "xhtml": "s_batou_v_dzungli__012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__013.md",
+            "xhtml": "s_batou_v_dzungli__013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__014.md",
+            "xhtml": "s_batou_v_dzungli__014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__015.md",
+            "xhtml": "s_batou_v_dzungli__015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__016.md",
+            "xhtml": "s_batou_v_dzungli__016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__017.md",
+            "xhtml": "s_batou_v_dzungli__017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__018.md",
+            "xhtml": "s_batou_v_dzungli__018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__019.md",
+            "xhtml": "s_batou_v_dzungli__019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__020.md",
+            "xhtml": "s_batou_v_dzungli__020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__021.md",
+            "xhtml": "s_batou_v_dzungli__021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__022.md",
+            "xhtml": "s_batou_v_dzungli__022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__023.md",
+            "xhtml": "s_batou_v_dzungli__023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__024.md",
+            "xhtml": "s_batou_v_dzungli__024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__025.md",
+            "xhtml": "s_batou_v_dzungli__025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__026.md",
+            "xhtml": "s_batou_v_dzungli__026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__027.md",
+            "xhtml": "s_batou_v_dzungli__027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__028.md",
+            "xhtml": "s_batou_v_dzungli__028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__029.md",
+            "xhtml": "s_batou_v_dzungli__029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__030.md",
+            "xhtml": "s_batou_v_dzungli__030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__031.md",
+            "xhtml": "s_batou_v_dzungli__031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__032.md",
+            "xhtml": "s_batou_v_dzungli__032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__033.md",
+            "xhtml": "s_batou_v_dzungli__033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__034.md",
+            "xhtml": "s_batou_v_dzungli__034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__035.md",
+            "xhtml": "s_batou_v_dzungli__035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__036.md",
+            "xhtml": "s_batou_v_dzungli__036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__037.md",
+            "xhtml": "s_batou_v_dzungli__037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__038.md",
+            "xhtml": "s_batou_v_dzungli__038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__039.md",
+            "xhtml": "s_batou_v_dzungli__039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__040.md",
+            "xhtml": "s_batou_v_dzungli__040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__041.md",
+            "xhtml": "s_batou_v_dzungli__041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__042.md",
+            "xhtml": "s_batou_v_dzungli__042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__043.md",
+            "xhtml": "s_batou_v_dzungli__043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__044.md",
+            "xhtml": "s_batou_v_dzungli__044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__045.md",
+            "xhtml": "s_batou_v_dzungli__045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__046.md",
+            "xhtml": "s_batou_v_dzungli__046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__047.md",
+            "xhtml": "s_batou_v_dzungli__047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__048.md",
+            "xhtml": "s_batou_v_dzungli__048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__049.md",
+            "xhtml": "s_batou_v_dzungli__049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__050.md",
+            "xhtml": "s_batou_v_dzungli__050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__051.md",
+            "xhtml": "s_batou_v_dzungli__051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__052.md",
+            "xhtml": "s_batou_v_dzungli__052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__053.md",
+            "xhtml": "s_batou_v_dzungli__053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "s_batou_v_dzungli__054.md",
+            "xhtml": "s_batou_v_dzungli__054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "S Baťou v džungli",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Markéta Pilátová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-01T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__001.md",
+        "xhtml": "s_batou_v_dzungli__001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__002.md",
+        "xhtml": "s_batou_v_dzungli__002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__003.md",
+        "xhtml": "s_batou_v_dzungli__003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__004.md",
+        "xhtml": "s_batou_v_dzungli__004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__005.md",
+        "xhtml": "s_batou_v_dzungli__005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__006.md",
+        "xhtml": "s_batou_v_dzungli__006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__007.md",
+        "xhtml": "s_batou_v_dzungli__007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__008.md",
+        "xhtml": "s_batou_v_dzungli__008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__009.md",
+        "xhtml": "s_batou_v_dzungli__009.xhtml"
+      },
+      {
+        "titleSuggest": "Jan Antonín",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__010.md",
+        "xhtml": "s_batou_v_dzungli__010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__011.md",
+        "xhtml": "s_batou_v_dzungli__011.xhtml"
+      },
+      {
+        "titleSuggest": "Maďarský malíř",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__012.md",
+        "xhtml": "s_batou_v_dzungli__012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__013.md",
+        "xhtml": "s_batou_v_dzungli__013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__014.md",
+        "xhtml": "s_batou_v_dzungli__014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__015.md",
+        "xhtml": "s_batou_v_dzungli__015.xhtml"
+      },
+      {
+        "titleSuggest": "Edita",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__016.md",
+        "xhtml": "s_batou_v_dzungli__016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__017.md",
+        "xhtml": "s_batou_v_dzungli__017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__018.md",
+        "xhtml": "s_batou_v_dzungli__018.xhtml"
+      },
+      {
+        "titleSuggest": "Fabrika",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__019.md",
+        "xhtml": "s_batou_v_dzungli__019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__020.md",
+        "xhtml": "s_batou_v_dzungli__020.xhtml"
+      },
+      {
+        "titleSuggest": "Laďa Pinga",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__021.md",
+        "xhtml": "s_batou_v_dzungli__021.xhtml"
+      },
+      {
+        "titleSuggest": "Edita",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__022.md",
+        "xhtml": "s_batou_v_dzungli__022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__023.md",
+        "xhtml": "s_batou_v_dzungli__023.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__024.md",
+        "xhtml": "s_batou_v_dzungli__024.xhtml"
+      },
+      {
+        "titleSuggest": "Dolores",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__025.md",
+        "xhtml": "s_batou_v_dzungli__025.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__026.md",
+        "xhtml": "s_batou_v_dzungli__026.xhtml"
+      },
+      {
+        "titleSuggest": "Fabrika",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__027.md",
+        "xhtml": "s_batou_v_dzungli__027.xhtml"
+      },
+      {
+        "titleSuggest": "Jan Antonín",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__028.md",
+        "xhtml": "s_batou_v_dzungli__028.xhtml"
+      },
+      {
+        "titleSuggest": "Edita",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__029.md",
+        "xhtml": "s_batou_v_dzungli__029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__030.md",
+        "xhtml": "s_batou_v_dzungli__030.xhtml"
+      },
+      {
+        "titleSuggest": "Ludmila",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__031.md",
+        "xhtml": "s_batou_v_dzungli__031.xhtml"
+      },
+      {
+        "titleSuggest": "Dolores",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__032.md",
+        "xhtml": "s_batou_v_dzungli__032.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__033.md",
+        "xhtml": "s_batou_v_dzungli__033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__034.md",
+        "xhtml": "s_batou_v_dzungli__034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__035.md",
+        "xhtml": "s_batou_v_dzungli__035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__036.md",
+        "xhtml": "s_batou_v_dzungli__036.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__037.md",
+        "xhtml": "s_batou_v_dzungli__037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__038.md",
+        "xhtml": "s_batou_v_dzungli__038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__039.md",
+        "xhtml": "s_batou_v_dzungli__039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__040.md",
+        "xhtml": "s_batou_v_dzungli__040.xhtml"
+      },
+      {
+        "titleSuggest": "Jan Antonín",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__041.md",
+        "xhtml": "s_batou_v_dzungli__041.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__042.md",
+        "xhtml": "s_batou_v_dzungli__042.xhtml"
+      },
+      {
+        "titleSuggest": "Jan Antonín",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__043.md",
+        "xhtml": "s_batou_v_dzungli__043.xhtml"
+      },
+      {
+        "titleSuggest": "Ludmila",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__044.md",
+        "xhtml": "s_batou_v_dzungli__044.xhtml"
+      },
+      {
+        "titleSuggest": "Edita",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__045.md",
+        "xhtml": "s_batou_v_dzungli__045.xhtml"
+      },
+      {
+        "titleSuggest": "Ludmila",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__046.md",
+        "xhtml": "s_batou_v_dzungli__046.xhtml"
+      },
+      {
+        "titleSuggest": "Edita",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__047.md",
+        "xhtml": "s_batou_v_dzungli__047.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__048.md",
+        "xhtml": "s_batou_v_dzungli__048.xhtml"
+      },
+      {
+        "titleSuggest": "Dolores",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__049.md",
+        "xhtml": "s_batou_v_dzungli__049.xhtml"
+      },
+      {
+        "titleSuggest": "Jan Antonín",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__050.md",
+        "xhtml": "s_batou_v_dzungli__050.xhtml"
+      },
+      {
+        "titleSuggest": "Ljubodrag",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__051.md",
+        "xhtml": "s_batou_v_dzungli__051.xhtml"
+      },
+      {
+        "titleSuggest": "Dolores",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__052.md",
+        "xhtml": "s_batou_v_dzungli__052.xhtml"
+      },
+      {
+        "titleSuggest": "Poznámka autorky: Nedělní metoda",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__053.md",
+        "xhtml": "s_batou_v_dzungli__053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "s_batou_v_dzungli__054.md",
+        "xhtml": "s_batou_v_dzungli__054.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_s_batou_v_dzungli.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "Hyperlink",
+      "MLP_UROVEN2_KAPITOLA",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-12-12-",
+      "MLP_text_bez1radku_-B-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_bez1radku_-I-_-0-12-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_text_uprostred_-B-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_venovani",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_verse_-I-_-12-0-",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_tucna_kurziva_11b",
+      "MLP_znak_tucne_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "pilatova-s-batou-v-dzungli"
+    },
+    "generatedAt": 1650912227551
+  }
+}
