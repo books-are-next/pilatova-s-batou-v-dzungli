@@ -70,10 +70,10 @@ tocBase:
     children:
       - link: s_batou_v_dzungli__005.html
         title: věnování
-        hiddenTitle: false
+        hiddenTitle: true
       - link: s_batou_v_dzungli__006.html
         title: citát
-        hiddenTitle: false
+        hiddenTitle: true
       - link: s_batou_v_dzungli__007.html
         title: Jan Antonín Baťa
         hiddenTitle: false

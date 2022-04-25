@@ -88,12 +88,12 @@
             "filename": "s_batou_v_dzungli__005.md",
             "xhtml": "s_batou_v_dzungli__005.xhtml",
             "id": 4,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
+            "hiddenTitle": true,
             "title": "věnování",
             "children": []
           },
@@ -101,12 +101,12 @@
             "filename": "s_batou_v_dzungli__006.md",
             "xhtml": "s_batou_v_dzungli__006.xhtml",
             "id": 5,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
+            "hiddenTitle": true,
             "title": "citát",
             "children": []
           },
@@ -1152,6 +1152,6 @@
       "user": "books-are-next",
       "repo": "pilatova-s-batou-v-dzungli"
     },
-    "generatedAt": 1650914581941
+    "generatedAt": 1650915161160
   }
 }
