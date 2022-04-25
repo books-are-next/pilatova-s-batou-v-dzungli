@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jan Antonín
 contentType: prose
 ---
-
-Jan Antonín
 
 „Polož mi ruku na srdce, poslouchej, jak v hlavě mi tikají hodinky.“
 

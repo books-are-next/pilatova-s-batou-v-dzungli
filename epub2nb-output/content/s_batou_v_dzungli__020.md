@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Dolores
 contentType: prose
 ---
-
-Dolores
 
 Dojojó
 

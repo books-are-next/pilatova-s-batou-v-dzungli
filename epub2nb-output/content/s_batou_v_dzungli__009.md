@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Edita
 contentType: prose
 ---
-
-Edita
 
 (Dcera Jana Antonína Bati)
 

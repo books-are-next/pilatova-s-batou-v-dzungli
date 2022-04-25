@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jindřich Waldes
 contentType: prose
 ---
-
-Jindřich Waldes
 
 (Zakladatel firmy KOH-I-NOOR, král knoflíkářského průmyslu, přítel Jana Antonína Bati,  
 jehož stopy končí v Havaně)

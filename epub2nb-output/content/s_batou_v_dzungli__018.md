@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jan Antonín
 contentType: prose
 ---
-
-Jan Antonín
 
 „Přijedu tam ve správnou chvíli sám, neboť jsem rozhodnut se tam jednou vrátiti. Vrátiti se do Zlína.“
 

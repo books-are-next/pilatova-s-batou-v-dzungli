@@ -1,16 +1,20 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "S Baťou v džungli",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Markéta Pilátová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-01T00:00:00.000Z"
+      "modified": "2021-09-01T00:00:00.000Z",
+      "publisherShort": "MKP",
+      "isbn": "978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_UROVEN2_KAPITOLA\nMLP_uroven2_kapitola\n",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h2": "MLP_uroven2_kapitola\nMLP_UROVEN2_KAPITOLA\n\n",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -30,72 +34,81 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "s_batou_v_dzungli__001.md",
             "xhtml": "s_batou_v_dzungli__001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__002.md",
             "xhtml": "s_batou_v_dzungli__002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__003.md",
             "xhtml": "s_batou_v_dzungli__003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__004.md",
             "xhtml": "s_batou_v_dzungli__004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__005.md",
             "xhtml": "s_batou_v_dzungli__005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "s_batou_v_dzungli__006.md",
             "xhtml": "s_batou_v_dzungli__006.xhtml",
             "id": 5,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "s_batou_v_dzungli__007.md",
@@ -106,7 +119,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__008.md",
@@ -117,7 +131,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__009.md",
@@ -128,7 +143,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__010.md",
@@ -139,7 +155,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jan Antonín"
           },
           {
             "filename": "s_batou_v_dzungli__011.md",
@@ -150,7 +168,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__012.md",
@@ -161,7 +180,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Maďarský malíř"
           },
           {
             "filename": "s_batou_v_dzungli__013.md",
@@ -172,7 +193,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__014.md",
@@ -183,7 +205,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__015.md",
@@ -194,7 +217,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__016.md",
@@ -205,7 +229,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Edita"
           },
           {
             "filename": "s_batou_v_dzungli__017.md",
@@ -216,7 +242,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__018.md",
@@ -227,7 +254,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__019.md",
@@ -238,7 +266,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Fabrika"
           },
           {
             "filename": "s_batou_v_dzungli__020.md",
@@ -249,7 +279,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__021.md",
@@ -260,7 +291,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Laďa Pinga"
           },
           {
             "filename": "s_batou_v_dzungli__022.md",
@@ -271,7 +304,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Edita"
           },
           {
             "filename": "s_batou_v_dzungli__023.md",
@@ -282,7 +317,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__024.md",
@@ -293,7 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__025.md",
@@ -304,7 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dolores"
           },
           {
             "filename": "s_batou_v_dzungli__026.md",
@@ -315,7 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__027.md",
@@ -326,7 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Fabrika"
           },
           {
             "filename": "s_batou_v_dzungli__028.md",
@@ -337,7 +381,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jan Antonín"
           },
           {
             "filename": "s_batou_v_dzungli__029.md",
@@ -348,7 +394,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Edita"
           },
           {
             "filename": "s_batou_v_dzungli__030.md",
@@ -359,7 +407,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__031.md",
@@ -370,7 +419,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ludmila"
           },
           {
             "filename": "s_batou_v_dzungli__032.md",
@@ -381,7 +432,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dolores"
           },
           {
             "filename": "s_batou_v_dzungli__033.md",
@@ -392,7 +445,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__034.md",
@@ -403,7 +458,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__035.md",
@@ -414,7 +470,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__036.md",
@@ -425,7 +482,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__037.md",
@@ -436,7 +494,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__038.md",
@@ -447,7 +507,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__039.md",
@@ -458,7 +519,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__040.md",
@@ -469,7 +531,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "s_batou_v_dzungli__041.md",
@@ -480,7 +543,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jan Antonín"
           },
           {
             "filename": "s_batou_v_dzungli__042.md",
@@ -491,7 +556,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__043.md",
@@ -502,7 +569,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jan Antonín"
           },
           {
             "filename": "s_batou_v_dzungli__044.md",
@@ -513,7 +582,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ludmila"
           },
           {
             "filename": "s_batou_v_dzungli__045.md",
@@ -524,7 +595,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Edita"
           },
           {
             "filename": "s_batou_v_dzungli__046.md",
@@ -535,7 +608,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ludmila"
           },
           {
             "filename": "s_batou_v_dzungli__047.md",
@@ -546,7 +621,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Edita"
           },
           {
             "filename": "s_batou_v_dzungli__048.md",
@@ -557,7 +634,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__049.md",
@@ -568,7 +647,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dolores"
           },
           {
             "filename": "s_batou_v_dzungli__050.md",
@@ -579,7 +660,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jan Antonín"
           },
           {
             "filename": "s_batou_v_dzungli__051.md",
@@ -590,7 +673,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ljubodrag"
           },
           {
             "filename": "s_batou_v_dzungli__052.md",
@@ -601,7 +686,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dolores"
           },
           {
             "filename": "s_batou_v_dzungli__053.md",
@@ -612,7 +699,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poznámka autorky: Nedělní metoda"
           },
           {
             "filename": "s_batou_v_dzungli__054.md",
@@ -623,7 +712,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -675,19 +765,19 @@
         "xhtml": "s_batou_v_dzungli__006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jan Antonín Baťa",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__007.md",
         "xhtml": "s_batou_v_dzungli__007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ludmila",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__008.md",
         "xhtml": "s_batou_v_dzungli__008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Edita",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__009.md",
         "xhtml": "s_batou_v_dzungli__009.xhtml"
@@ -699,7 +789,7 @@
         "xhtml": "s_batou_v_dzungli__010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__011.md",
         "xhtml": "s_batou_v_dzungli__011.xhtml"
@@ -711,19 +801,19 @@
         "xhtml": "s_batou_v_dzungli__012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__013.md",
         "xhtml": "s_batou_v_dzungli__013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ljubodrag",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__014.md",
         "xhtml": "s_batou_v_dzungli__014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ludmila",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__015.md",
         "xhtml": "s_batou_v_dzungli__015.xhtml"
@@ -735,13 +825,13 @@
         "xhtml": "s_batou_v_dzungli__016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jindřich Waldes",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__017.md",
         "xhtml": "s_batou_v_dzungli__017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jan Antonín",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__018.md",
         "xhtml": "s_batou_v_dzungli__018.xhtml"
@@ -753,7 +843,7 @@
         "xhtml": "s_batou_v_dzungli__019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__020.md",
         "xhtml": "s_batou_v_dzungli__020.xhtml"
@@ -771,7 +861,7 @@
         "xhtml": "s_batou_v_dzungli__022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ludmila",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__023.md",
         "xhtml": "s_batou_v_dzungli__023.xhtml"
@@ -813,7 +903,7 @@
         "xhtml": "s_batou_v_dzungli__029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jan Antonín",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__030.md",
         "xhtml": "s_batou_v_dzungli__030.xhtml"
@@ -837,19 +927,19 @@
         "xhtml": "s_batou_v_dzungli__033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__034.md",
         "xhtml": "s_batou_v_dzungli__034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jan Antonín",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__035.md",
         "xhtml": "s_batou_v_dzungli__035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ludmila",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__036.md",
         "xhtml": "s_batou_v_dzungli__036.xhtml"
@@ -861,19 +951,19 @@
         "xhtml": "s_batou_v_dzungli__037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__038.md",
         "xhtml": "s_batou_v_dzungli__038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jan Antonín",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__039.md",
         "xhtml": "s_batou_v_dzungli__039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dolores",
         "subtitleSuggest": "",
         "filename": "s_batou_v_dzungli__040.md",
         "xhtml": "s_batou_v_dzungli__040.xhtml"
@@ -1044,6 +1134,6 @@
       "user": "books-are-next",
       "repo": "pilatova-s-batou-v-dzungli"
     },
-    "generatedAt": 1650912227551
+    "generatedAt": 1650913112578
   }
 }

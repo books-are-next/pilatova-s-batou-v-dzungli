@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Ljubodrag
 contentType: prose
 ---
-
-Ljubodrag
 
 (Zeť Jana Antonína Bati, manžel Ludmily Baťové,  
 otec Dolores Baťa Arambašičové)

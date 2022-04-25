@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: S Baťou v džungli
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Markéta Pilátová
   publisher: Městská knihovna v Praze
   modified: '2021-09-01T00:00:00.000Z'
+  publisherShort: MKP
+  isbn: 978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2
 readingOrder:
-  - s_batou_v_dzungli__001.html
   - s_batou_v_dzungli__002.html
-  - s_batou_v_dzungli__003.html
-  - s_batou_v_dzungli__004.html
   - s_batou_v_dzungli__005.html
   - s_batou_v_dzungli__006.html
   - s_batou_v_dzungli__007.html
@@ -64,10 +65,105 @@ readingOrder:
   - s_batou_v_dzungli__052.html
   - s_batou_v_dzungli__053.html
   - s_batou_v_dzungli__054.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: s_batou_v_dzungli__005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: s_batou_v_dzungli__006.html
+        title: Citát
+        hiddenTitle: true
+      - link: s_batou_v_dzungli__010.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__012.html
+        title: Maďarský malíř
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__016.html
+        title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__019.html
+        title: Fabrika
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__021.html
+        title: Laďa Pinga
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__022.html
+        title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__024.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__025.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__026.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__027.html
+        title: Fabrika
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__028.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__029.html
+        title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__031.html
+        title: Ludmila
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__032.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__033.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__037.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__041.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__042.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__043.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__044.html
+        title: Ludmila
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__045.html
+        title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__046.html
+        title: Ludmila
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__047.html
+        title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__048.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__049.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__050.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__051.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__052.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__053.html
+        title: 'Poznámka autorky: Nedělní metoda'
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
