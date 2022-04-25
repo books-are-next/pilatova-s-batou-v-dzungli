@@ -15,8 +15,6 @@ meta:
   isbn: 978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2
 readingOrder:
   - s_batou_v_dzungli__002.html
-  - s_batou_v_dzungli__005.html
-  - s_batou_v_dzungli__006.html
   - s_batou_v_dzungli__007.html
   - s_batou_v_dzungli__008.html
   - s_batou_v_dzungli__009.html
@@ -64,34 +62,60 @@ readingOrder:
   - s_batou_v_dzungli__051.html
   - s_batou_v_dzungli__052.html
   - s_batou_v_dzungli__053.html
-  - s_batou_v_dzungli__054.html
   - colophon.html
 tocBase:
   - id: section-1
     children:
-      - link: s_batou_v_dzungli__005.html
-        title: Věnování
-        hiddenTitle: true
-      - link: s_batou_v_dzungli__006.html
-        title: Citát
-        hiddenTitle: true
+      - link: s_batou_v_dzungli__007.html
+        title: Jan Antonín Baťa
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__008.html
+        title: Ludmila
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__009.html
+        title: Edita
+        hiddenTitle: false
       - link: s_batou_v_dzungli__010.html
         title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__011.html
+        title: Dolores
         hiddenTitle: false
       - link: s_batou_v_dzungli__012.html
         title: Maďarský malíř
         hiddenTitle: false
+      - link: s_batou_v_dzungli__013.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__014.html
+        title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__015.html
+        title: Ludmila
+        hiddenTitle: false
       - link: s_batou_v_dzungli__016.html
         title: Edita
         hiddenTitle: false
+      - link: s_batou_v_dzungli__017.html
+        title: Jindřich Waldes
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__018.html
+        title: Jan Antonín
+        hiddenTitle: false
       - link: s_batou_v_dzungli__019.html
         title: Fabrika
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__020.html
+        title: Dolores
         hiddenTitle: false
       - link: s_batou_v_dzungli__021.html
         title: Laďa Pinga
         hiddenTitle: false
       - link: s_batou_v_dzungli__022.html
         title: Edita
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__023.html
+        title: Ludmila
         hiddenTitle: false
       - link: s_batou_v_dzungli__024.html
         title: Ljubodrag
@@ -111,6 +135,9 @@ tocBase:
       - link: s_batou_v_dzungli__029.html
         title: Edita
         hiddenTitle: false
+      - link: s_batou_v_dzungli__030.html
+        title: Jan Antonín
+        hiddenTitle: false
       - link: s_batou_v_dzungli__031.html
         title: Ludmila
         hiddenTitle: false
@@ -120,8 +147,26 @@ tocBase:
       - link: s_batou_v_dzungli__033.html
         title: Ljubodrag
         hiddenTitle: false
+      - link: s_batou_v_dzungli__034.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__035.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__036.html
+        title: Ludmila
+        hiddenTitle: false
       - link: s_batou_v_dzungli__037.html
         title: Ljubodrag
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__038.html
+        title: Dolores
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__039.html
+        title: Jan Antonín
+        hiddenTitle: false
+      - link: s_batou_v_dzungli__040.html
+        title: Dolores
         hiddenTitle: false
       - link: s_batou_v_dzungli__041.html
         title: Jan Antonín
