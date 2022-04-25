@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jan Antonín
 contentType: prose
 ---
-
-Jan Antonín
 
 Vánoce
 

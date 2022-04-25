@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Ludmila
 contentType: prose
 ---
-
-Ludmila
 
 Moje zlato, stříbro a drahé kamení
 

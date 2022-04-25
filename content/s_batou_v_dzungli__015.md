@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Ludmila
 contentType: prose
 ---
-
-Ludmila
 
   
 

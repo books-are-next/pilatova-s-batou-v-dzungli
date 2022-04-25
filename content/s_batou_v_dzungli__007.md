@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jan Antonín Baťa
 contentType: prose
 ---
-
-Jan Antonín Baťa
 
 (Nevlastní bratr Tomáše Bati, který po jeho smrti dovedl firmu Baťa k světovému rozmachu)
 

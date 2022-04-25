@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Dolores
 contentType: prose
 ---
-
-Dolores
 
 „Vlastně ho nepřekvapovalo nic na ničem. Ukázalo se, že celá stavba civilizace je vybudována z nepevné směsi tekutého písku a fantazie.“
 

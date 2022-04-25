@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Ludmila
 contentType: prose
 ---
-
-Ludmila
 
 „Tady jsme. Zataveni v jantaru tohoto okamžiku. Není žádné proč.“
 

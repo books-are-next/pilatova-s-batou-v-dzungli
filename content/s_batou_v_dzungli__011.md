@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Dolores
 contentType: prose
 ---
-
-Dolores
 
 (Vnučka Jana Antonína Bati, dcera Ludmily Baťové  
 a Ljubodraga Arambašiče)
