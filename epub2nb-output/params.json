@@ -52,7 +52,7 @@
             "filename": "s_batou_v_dzungli__002.md",
             "xhtml": "s_batou_v_dzungli__002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1152,6 +1152,6 @@
       "user": "books-are-next",
       "repo": "pilatova-s-batou-v-dzungli"
     },
-    "generatedAt": 1650915161160
+    "generatedAt": 1652351636245
   }
 }
