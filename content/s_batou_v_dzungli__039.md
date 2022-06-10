@@ -3,6 +3,8 @@ title: Jan Antonín
 contentType: prose
 ---
 
+<section>
+
 „All things begin and end as stories.“
 
 _Ragnar Lothbrok_
@@ -13,60 +15,78 @@ Chybí mi dokonce jeho sbírka slovenské a moravské keramiky staré dvě stě
 
 Hugo mě varoval, než přijeli Němci, že chtějí mou hlavu. Pomohl firmě vyvézt majetek z německého území a stál za mnou při komunistickém procesu. Ale nejdůležitější pro mě vždycky bylo, že mě celou tu dobu, co jsme se znali, povzbuzoval. Nikdy mě nepovažoval za velikášského snílka. A pohřeb Václava Havla, Hugova milovaného vnuka Venóška, byl jeden z mála, na který jsem mohl jít. Když jsem žil, nemohl jsem jet na pohřeb stařenky Hrušťákové, protože by mě náckové hned strčili do vězení, jen bych se doma ukázal. Stařence šel ale na pohřeb celý Zlín. A pak mi o tom psali dopisy. Jak se zastavila práce a jak se lidi bez dovolení německé správy vydali na ten pohřeb. Byl to prý protest. A já nemohl protestovat, nemohl jsem se s maminkou rozloučit. Mohl jsem jenom napsat báseň. Další mizernou báseň, která byla jenom tiskařskou černí na cáru papíru. Tentokrát mi slova nepomáhala. Nepomáhalo mi nic.
 
-  
+</section>
+
+<section>
 
 5\. 5. 1940  
 POHŘEB STAŘENKY
 
-  
+</section>
+
+<section>
 
 Ten pohled do rakve, kde matka navždy shaslá,  
 byť stará – leží tiše, je jeden z žalů žití,  
 jež každého snad čeká. Jen světlo věčně svítí  
 v tvář udivenou, jak by nad svým skonem žasla.
 
-  
+</section>
+
+<section>
 
 Jde průvod ulicí. – Je velký, dlouhý.  
 To nesou moji matku vzhůru, – do hrobu.  
 Pohřební průvod značí dnešní dobu.  
 To demonstrace přízrak je jen pouhý.
 
-  
+</section>
+
+<section>
 
 To jediné, jež smí se, je ten průvod  
 provádět ještě v naší krásné vlasti.  
 A ti, kteří se nedají už zmásti,  
 si k demonstraci tiché našli důvod.
 
-  
+</section>
+
+<section>
 
 Pohřební průvod, výraz jediný je těch citů,  
 které vyjádřit se smějí,  
 jak průvod jde, jak zvony vyzvánějí.  
 – Dej pokoj věčný, který viny smyje…
 
-  
+</section>
+
+<section>
 
 Moje viny. Měl jsem tam být. Měl jsem hodit hlínu na její rakev. Prsty ji předtím rozdrolit, aby to moc nezadunělo. Ale věděl jsem, že by mi to nikdy neodpustila. Zapřísahala mě, abych se nevracel, abych se nevystavoval nebezpečí. Sliboval jsem, že pro ni pošlu, jakmile to půjde, jenže ona nechtěla odjet. Nechtěla utíkat. Říkala, že ona chce umřít doma a že by se jí to při cestě za moře nemuselo povést. „Chcu ležet tady, synku, ve studené zemi, né někde v džungli s hadama a opicama,“ říkala. Vždycky jsme se se stařenkou strašně nasmáli. Byla to jednoduchá, moudrá lidová žena, skvělá hospodyně, za kterou jsem se ani v dobách největších úspěchů nikdy nestyděl. Jediný, kdo se za ni styděl, byla Tominova nafoukaná Máňa. Dcerka vídeňského vysokého úředníka, moje švagrová v minkovém kožuchu a hedvábných rukavičkách, přesný protiklad baťovácké ženy, která podle našeho desatera měla být rozumná, ukázněná, ctnostná, upřímná, odvážná, pracovitá, čistotná, jednoduchá, přítelkyně všech a vždy dobré a veselé mysli. Máňa ta pravidla porušovala ve všech bodech. Nejvíc mě ale namíchla při večeři s prezidentem Tomášem Garriguem Masarykem. Dovedete si představit, jak to bylo slavnostní, jak to bylo velkolepé, jak jsme se všichni strašně snažili udělat na pana prezidenta, kterého jsme obdivovali a uctívali, ten nejlepší dojem. Stařenka Hrušťáková přijela z Hradišťa taky a všichni jsme se nakonec výborně bavili. „Tož vítám ťa, Tomášku!“ pravila ve dveřích stařenka. Pak seděla vedle něj a on se na ni pořád usmíval. Jenom Máňa se na stařenku škaredila, protože s panem prezidentem mluvila, jak jí zobák narostl, a pan prezident, protože byl z Hodonína, sa k ní přidal. Na Máňu šly ale z té nehoráznosti málem mdloby. Fouňa jedna nafouněná! Vychovaly ji ve Vídni české služky, mluvila německy, francouzsky a anglicky a její papá, kustod císařské knihovny, ji vodil do té nejvyšší společnosti. Jenomže Tominovi se líbila, byla to jeho žena, tak jsem se ji učil respektovat. Na té památné večeři se podávala ryba. Pstruh plněný mandlemi na másle a malé, žluťoučké brambůrky s petrželkou. Dodnes cítím vůni jemně propečené pstruží kůže a lahodnost domácího soleného másla. Všichni jsme si pochutnávali, stařenka vyprávěla panu prezidentovi, jaké lumpárny jsem prováděl ještě v Rybární, a Tomina se taky dobře bavil. Nakonec se servírovala voda s citronem na omytí prstů. Bílé porcelánové mističky s vodou čekaly, až do nich všichni zlehka ponoříme mastné prsty, ale najednou stařenka tu svoji labužnicky zvedla a na jeden zátah citronovou vodu vyzunk­la. Tentokrát ztuhli všichni, nejenom naše nóbl švagrová. Ta se dokonce zapomněla ušklíbnout. Tomáš Garrigue Masaryk ale ani nemrknul, vzal misku s citronovou vodou do obou rukou, podíval se na stařenku Hrušťákovou a taky se nábožně napil.
 
 Až rok před vlastní smrtí jsem se odhodlal napsat o stařence skutečné verše. Báseň je to krátká, ani nemá název, ale je dost možná nejlepší. Poprvé jsem totiž dokázal napsat, že mi scházejí slova.
 
-  
+</section>
+
+<section>
 
 Moc často se nám nepodaří  
 vyslovit dík, jejž srdce cítí,  
 když den se vrátí v kalendáři  
 a chvíle je to vysloviti.
 
-  
+</section>
+
+<section>
 
 Zpravidla k tomu schází slova.  
 Jsou mělká proti citu síle, jež zvedá  
 v hloubi nás se znova,  
 když matky vzpomínáme milé.
 
-  
+</section>
+
+<section>
 
 A potom umírali další moji příbuzní tam doma. A já byl čím dál nemohoucnější. Zastavený. Ztuhlý. Zmatený. Daleko. A žádné další básně jsem o těch pohřbech už nenapsal.
 
@@ -76,7 +96,9 @@ Cítil jsem, že i tento pohřeb je protest. Proti poměrům, proti tomu, co je
 
 Lidka tedy panu prezidentovi napsala:
 
-  
+</section>
+
+<section>
 
 _Sao Paulo, 4. února 1991_
 
@@ -120,7 +142,9 @@ Byla krize, hrozila válka, ale copak se mohl pořádný baťaman vzdávat? Muse
 
 Za humny nám vyřvával Hitler a prskal špínu jak vzteklá fretka, a já se cítil úplně bezmocný, uondaný všemi těmi uhlazenými řečmi v pokojích a kabinetech panáků, co nade mnou stejně jenom ohrnovali nos, přestože moje peníze a styky se jim hodily. A strašně mi vadilo, jak se pořád nadává Židům, kterých jsem si já vážil, a jak se jich nikdo z těch hlavounů, z těch špína chlapů otevřeně a jasně nezastane. Hlavně Jindry Waldese, ale i jiných. A tak jsem napsal v srpnu, v tom parnu, které mě rozpalovalo doběla stejně jako vztek na všechny ty špatné časy, článek, který se jmenoval Baťa český Žid. A v tom článku jsem se aspoň takhle Židů zastal. Ale to bylo málo! Tak jsem do jednotek přednostně vybíral židovské pracovníky a několik stovek jejich rodin se mi podařilo dostat pryč. Nedělal jsem si iluze, že kdyby se ten uřvaný trpaslík dostal do republiky, že by je nechal na pokoji. Po válce mi to ale nikdo nevěřil. Po válce si na to nikdo ani nevzpomněl. Kolik to mohlo být židovských dětí a jejich rodičů? Nikdy jsem ty děti nepočítal. Ani peníze, které mě to stálo. Ale ne, byl bych nespravedlivý, našli se i lidi, kteří si vzpomněli a po válce psali i jiná prohlášení než ta, v nichž se mě zříkali. Bylo jich jen pár, ale byli. Třeba Mařenka Morgensternová, která se díky našemu plánu B dostala do Ameriky, jedno takové napsala:
 
-  
+</section>
+
+<section>
 
 Já, MARIE MORGENSTERNOVÁ, bytem Rogers Street 323, Aberdeen, Maryland, vzata nejprve náležitě pod přísahu, vypovídám a prohlašuji následující: Znala jsem zesnulého Dr. Jana A. Baťu po mnoho let a věděla jsem, že byl loajálním Čechem a odpůrcem nacistů. Osobně vím, že pomohl mnoha židovským lidem k úniku z Československa. Od svého zesnulého manžela vím, že někdy na konci roku 1938, během jedné z pravidelných sobotních porad, které můj manžel osobně navštěvoval, vyjádřil Dr. Baťa svůj osobní zájem o osud židovských zaměstnanců v jeho společnosti a řekl, že by chtěl něco učinit, aby jim pomohl. Brzy potom začal většinu z nich s jejich rodinami vysílat do zahraničí, přičemž zaplatil jejich dopravu a poskytl jim zaměstnání v různých částech světa. Osobně vím, že sedmdesát až osmdesát židovských rodin bylo takto posláno z Československa před 15. březnem 1939. Můj zesnulý manžel a já jsme byli také vystaveni pronásledování nacistů kvůli našemu židovskému původu. Nacisti zkonfiskovali naše pasy a také všechen náš majetek: hotovost, depozita, klenoty atd. Třebaže bylo velmi obtížné odejít z Československa po jeho obsazení nacisty, dokázali jsme to jen za pomoci Dr. Bati. Osobně nevím o žádném případu, kdy by Dr. Baťa udělal cokoli proti zájmům českého národa, a pokud vím, počínal si vždy jako loajální Čech. Mnoho z nás, kteří jsme Židy a vděčíme mu za své životy díky jím poskytnuté pomoci, bude navždy dlužníky Dr. Bati. Všichni víme, jaký osud by nás jinak čekal.
 
@@ -134,53 +158,69 @@ A když nastala zima osmatřicátého, přituhlo tak, že mě gestapo zatklo v�
 
 Měl dokonalé chování, vypasenou tvář, vysunutou bradu ješity a tvrdý, mstivý pohled. Připomínal mi tlustého, dobře vycvičeného bojového psa. Trochu jsem se uklidňoval tím, že je to přece letec. Létadla! Budu mluvit o létadlech, umiňoval jsem si. Jenže on sice velel Luftwaffe, ale taky založil gestapo. A nechtěl se se mnou bavit o létadlech, ale o tom, jak by se mohl doplňovat český a německý průmysl. Měl na starosti i německé hospodářské otázky a já se ho snažil přesvědčit, aby nezavřeli všech našich pět set prodejen, které jsme měli v Sudetech. Jen se mi vysmál a řekl, že chtěl poznat nejbohatšího českého Žida, když jsem taky novinář, co rád píše provokativní články. To mě rozčílilo, Göring, Negöring, a tak když se zeptal, co si myslím o konkrétní ekonomické spolupráci mezi Německem a Československem, řekl jsem mu, že by to bylo stejné jako manželství mezi dvěma muži – nikdy by nezplodilo dítě. Vždyť je to jasné! Jak bychom se asi tak mohli doplňovat, když si hlavně konkurujeme! Nakupujeme a prodáváme na stejných trzích. A v duchu jsem si už nadával, co to ťápu, a představoval si, jak mě odvádějí do cely. Nakonec jsem se ale přeci jen dokázal zeptat, proč drží naše dva prokuristy, kteří nic neudělali, a jestli by je mohl pustit. Nechodil jsem kolem horké kaše, protože to stejně neumím. Prostě jsem se přímo zeptal. Přimhouřil oči a nabídl mi cigaretu. Odmítl jsem, protože nekouřím. A hned jsem toho litoval, protože to bylo další odmítavé gesto. Takhle tedy ty dva chudáky rozhodně nezachráním. Já blbec! Kéž by tady byl se mnou Vavrečka, který by dokázal diplomaticky brebentit a roztomile kroužit kolem tématu, a až by navodil přátelskou atmosféru a samozřejmě si s tím tlustým buldokem zapálil, tak by se pak opatrně zeptal na možnosti propuštění našich spolupracovníků. To už by ale s maršálem Göringem probral drdol jeho ženy, zdraví dcerky a jeho nejnovější přírůstky do sbírky uměleckých obrazů. Pak by s ním diskutoval o lidovém malířství na východní Moravě a nabídl by mu výhodnou koupi nějakého skvostu ze své sbírky. Dal by si s ním malou baňku šnapsu, pochválil by mu tu jeho úděsnou ratejnu a zeptal by se, kdo mu tu nádheru projektoval. A když by mu to Göring prozradil, vyžebral by na něm vizitku dotyčného stavitele strašidelných zámků. Jenže mě nenapadlo už vůbec nic, co bych mohl říct. Došla mi řeč. Prohlížel si mě, jako by se rozmýšlel, jestli mi má nebo nemá skočit po krku. Pak odklepl popel z cigarety do zlatého popelníku a řekl mi, že uvidí, co se s těmi německými prokuristy, co pracují pro českého Žida Baťu, dá udělat. Zachechtal se. Všechny faldy v nabubřelé, divadelně zdobné uniformě se na něm rozklepaly. Já se nezmohl na nic. Měl jsem sucho v krku. Jenom jsem ho pozoroval jakoby zdálky, břicho mě bolelo a měl jsem pocit, že mu každou chvíli strachy pozvracím ten jeho moderní tepich. Pak se otočil, jako by mě už měl dost, a audience byla u konce. Jeho sekretář mě pak odvedl zpátky do auta, a to mě odvezlo do Berlína. Celou cestu jsem v duchu psal báseň. Dokončil jsem ji pak až mnohem, mnohem později, ale tehdy, když ve mně kynul vztek jak Majino těsto na chleba, jsem ji začal. Pořád mi totiž někdo říkal, co jsem. Každý to věděl líp jak já. Tak jsem ji taky tak pojmenoval.
 
-  
+</section>
+
+<section>
 
 CO JSEM?
 
-  
+</section>
+
+<section>
 
 Nejsem Žid a nejsem nazi,  
 nejsem uprchlíkem.  
 Nemám žádné vlohy lhací,  
 jsem jen obuvníkem.
 
-  
+</section>
+
+<section>
 
 Nejsem agent třetí říše,  
 nejsem jejich sluhou.  
 Venku lépe se mi dýše.  
 Já mám práci druhou.
 
-  
+</section>
+
+<section>
 
 Jsem jen Čech a švec jsem taky  
 několik set roků.  
 Rod můj ne jen ledajaký  
 mnoho přežil soků.
 
-  
+</section>
+
+<section>
 
 Co je pro nás rok, tři, sedm?  
 Nebo třeba dvě stě?  
 Tisíc let jsem čelil jedům  
 jsa Germánům v cestě.
 
-  
+</section>
+
+<section>
 
 Nejsem špatným Čechem ani,  
 nejsem zbohatlíkem,  
 a chci světa do skonání  
 zůstat obuvníkem.
 
-  
+</section>
+
+<section>
 
 Nejsem Žid a ani nazi,  
 ni refugee nejsem.  
 Jsem jen Čech. – Ti nejsou zrádci.  
 – A zůstanu ŠEVCEM.
 
-  
+</section>
+
+<section>
 
 Zůstat ševcem. Nebýt uprchlíkem, zůstat obuvníkem. Vydržať! To jsem si umiňoval, zatímco ve Zlíně se střídaly různé návštěvy. Přijeli i ti dva nešťastní prokuristi, které gestapo po mojí návštěvě Caringhallu propustilo, a v nemocnici ve Zlíně je pak dávali dohromady. Přijel Džavaharlá Nehrú, polský prezident Moszcicki, chilský velvyslanec a já sám jsem jezdil do Prahy, abych věděl, co se přesně děje. Jednal jsem, s kým jsem mohl, s Rudolfem Beranem, generály Syrovým a Eliášem, pak jsem se dokonce v polovině února odvážil do Berlína, abych se tam na jejich ministerstvu hospodářství doprošoval řešení situace našich prodejen v odstoupených Sudetech. Když v noci ze 14. na 15. března německá armáda obsadila zbytek Československa, byl jsem zrovna v polském Chelmku. Spadla klec. Mařenka, dcera Edita a Jeník byli ve Zlíně. Pokoušeli se za mnou odjet do Polska, ale zastavili je esesáci. Chtěli, abych se vrátil do Zlína. Vzal jsem to nejdřív oklikou přes Rumunsko, Jugoslávii, Francii, Belgii, Holandsko a nakonec Anglii, kde jsem vyzvedl dcery, a pak jsem se do Zlína vrátil. Co se dalo dělat? Během jara se ale rozhodlo, že s konečnou platností zvednu kotvy. Obstaral jsem všem švýcarská víza a pak jsem odjel na oko na obchodní cestu do Francie. Mařenka poslala Editu vlakem do Maďarska a sama s Jeníkem jela za mnou do Francie. Bylo to složité, ale chtěli jsme se rozdělit, aby se útěk povedl alespoň někomu z nás. Pak jsme z Francie odjeli do Ameriky, oficiálně na světovou výstavu do New Yorku.
 
@@ -208,14 +248,18 @@ Národní soud nebyl žádný normální soud. Navíc jeho činnost měla skonč
 
 A tak nezbývalo než o tom napsat báseň.
 
-  
+</section>
+
+<section>
 
 Beneš to byl, to víme nyní,  
 kdo zradil národ náš a vlast,  
 kromě pár jiných ještě sviní  
 a nechal rudé v zemi krást.
 
-  
+</section>
+
+<section>
 
 Ale zbývala mi Brazílie. Měl jsem s tou zemí ohromné plány. A že byly neuskutečnitelné? Tož možná že i byly, ale co na tom. Člověk si nemůže představovat, že se stane jenom dělníkem v továrně. Aby se stal někým skvělým a velkým, musí mít nejdřív velké a skvělé sny a pak velké a skvělé plány, aby ty sny mohl uskutečnit. A já jsem pro Brazílii naplánoval deset baťovských měst s fabrikami obuvnickými, gumárenskými, koželužskými, textilními, dřevařskými, papírenskými, chemickými, pilami, zemědělstvím, a hlavně kolonizaci zatím neobydlených a průmyslem a zemědělstvím nevyužívaných oblastí. Ta města jsem měl v hlavě. Měl jsem tam veškeré jejich plány, které jsem chtěl zase zadat Karfíkovi a spol. Protože oni nejlépe rozumějí účelné, racionální a krásné architektuře. Měla se jmenovat Batatuba, Baitaibuna, Batayporã, Bataiára, Batarassu, Batapé, Batajuba, Bataguassú a Batavari. Pustil jsem se do toho hned po komunistickém puči. Poháněl mě vztek. Jako by mi dal sílu a křídla. Tentokrát brazilská. Začal jsem městem Bataguassú – alias Baťův Velký Potok. Řeka Paraná. Úrodné pláně, miliony hektarů, bílí býci a obyčejní, poctiví lidé, kteří chtěli lepší život. Stejně jako lidi ve Zlíně, stejně jako naši lidi. Kdyby dali na mé plány, mohli být tady nebo v Patagonii, a nemuseli se opékat na komunistickém roštu. A Mařenčino město Mariápolis už si utěšeně razilo cestu historií a rostlo do krásy, stejně jako moje milovaná paní Baťová. Už dva roky před komunistickým převratem doma mělo čtyři tisíce nových obyvatel, sedm obchodů, dvě lékárny, velký hotel, jednu farmu, pilu a bílý kostelík s doškovou střechou. Mělo rovné ulice, které stínily palmy, a bylo účelné a funkční, přesně jak jsem si představoval.
 
@@ -226,3 +270,5 @@ Brazilské dobrodružství však samozřejmě nemohlo být financováno ze znár
 Tomík, nebo spíš Máňa tehdy začuli, že nejsem zrovna v nejlepší finanční ani zdravotní kondici. A tak si taky přisadili. Přidali očko do pletené oprátky. Začali se soudit o akcie holdingové společnosti Leader a pak dokonce o vlastnictví všech zahraničních společností. Patnáct let soudů. Dovede si to někdo z vás představit? Stálo mě to osm infarktů, nocí, v nichž si mě znova podávaly noční můry jak v boxerském ringu, a neustálých bojů s vlastními pochybnostmi. Za žádnou cenu jsem ale nechtěl tomu usmrkanci, co si začal hrát na velkého boye, ustupovat. A jeho matince už vůbec ne! Už kvůli stařence Hrušťákové, kterou tak ponižovala svými úšklebky. Ba ne, zlu se nemá ustupovat, a tuplem ne, když ho máte v rodině! A že jsme se mohli domluvit? Že jsme se měli domluvit? Možná. Jenže kdykoli byla domluva na spadnutí, Tomík vznesl tak nehorázné požadavky, že mě to uráželo. Ale nejvíc jsem mu nemohl odpustit, že se spřáhl s komunisty. Ti dobře schovali dokumenty o dědictví a já je nemohl z republiky nijak dostat. Ti dva jim slíbili, že nebudou dělat potíže se znárodněním zlínské fabriky, že nebudou vznášet žádné další požadavky a nebudou nijak protestovat. Za to komunisti schovali papíry, které ležely v sejfu ve Zlíně, a já je potřeboval, abych doložil své nároky na dědictví. A tak jsem všechny spory v zahraničí prohrál. Těch patnáct let bylo jak velký obří lux, který mi odsál všechen entuziasmus a sílu. Zůstalo mi jenom psaní. Když jsem psal, byl jsem zase tím čím dřív. Mohl jsem myslet a plánovat, rozmachovat se. Co na tom, že do prázdna.
 
 Zatímco vykládám, ťápu jak kráva do vody a znova o tom všem přemýšlím, znova se vztekám a pochybuju, u stromu bílých volavek se smráká. Kluk pase u cesty kozu, sovy čekají na lišaje, aby je mohly spořádat k večeři. Loví je jako zákusky po myších a gekonech. Jemná, sametová křídla těch velkých, temných můr jim pulírují žluté zahnuté zobáky. Najednou zatoužím odejít. Poprvé to v sobě postřehnu. Ale pak ucítím vůni leštěnky.
+
+</section>

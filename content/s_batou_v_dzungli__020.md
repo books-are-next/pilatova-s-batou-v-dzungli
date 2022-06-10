@@ -3,9 +3,13 @@ title: Dolores
 contentType: prose
 ---
 
+<section>
+
 Dojojó
 
-  
+</section>
+
+<section>
 
 Říkala jsem si tak, Dojojó. Dolores jsem totiž moc nemohla vyslovit, když jsem byla malá. A všichni to ode mě převzali. Ještě když jsem byla na právech v portugalské Coimbře, psala mi tam máma dopisy a oslovovala mě v nich Milá Dojojó. Jen dědeček mi říkal česky Doloresko. Dlouho jsem si myslela, že všechny ty jeho příběhy o Československu a o Zlíně jsou legendy. Mýty a báje. Něco, co se dětem vypráví a na co se vzpomíná, ale dítě si z toho v hlavě poskládá svou vlastní pohádku. Copak si dokáže představit, jak se utíká před fašisty nebo před komunisty? Představovala jsem si to různě, vždycky před spaním, a pak jsem ve snech vídávala dědečka, jak se plíží se samopalem přes zasněžené lesy, nebo tetu Editu, jak jede na střeše vlaku a vlasy jí vlají ve větru a ona se jen tak tak udrží, ale zezadu ji pak podepře strýc Nelson a zachytí ji, když málem spadne pod kola. A pak jsem jednou jela za tetou Editou do Bataguassú. V Sao Paulu jsme dávali s maminkou dohromady folklorní kroužek Slavia a já o tom chtěla říct všem krajanům v Brazílii osobně. Pozvat je na naše první vystoupení, nalákat k nám do souboru jejich děti a vnuky, najít v jejich knihovnách a policích knížky o folkloru, poprosit je o desky a kazety s lidovou muzikou nebo se s nimi jen tak seznámit. Byla to moje mise. A v tom novém městě u břehu širokánské řeky Paraná jsem potkala pana Dobeše. Pracoval pro dědu v Bataguassú jako hlavní manažer. Drobný mužík s kulatou hlavou v úhledném šedém saku mi ke všem těm legendám přidal i jednu svou dobrodružnou o tom, jak v osmačtyřicátém utíkali z Československa na podvozku mládežnického autobusu přes hranice. Když to vyprávěl, měl v oku takovou jiskru, že kdyby přeskočila na vyschlé pastviny, lehl by celý stát Mato Grosso do Sul popelem.
 
@@ -13,15 +17,21 @@ Ptala jsem se ho, jaké to bylo, když přišel poprvé sem do pralesa, který t
 
 Když mi to vyprávěl, vzpomněla jsem si na jednu dědovu básničku. Jmenovala se Rio Pardo a byla o Hnědé řece, ve které žije sucuri. Možná ji děda napsal potom, co mu pan Dobeš vyprávěl stejnou historku jako mně. Ale už jsem se ho nestihla zeptat. Byl v té básničce nezvykle poetický, netlačil tolik na pilu poučování. A já si přeříkala ty verše a mohla alespoň na chvíli být se všemi těmi chlapy na břehu řeky Pardo statečná:
 
-  
+</section>
+
+<section>
 
 „Sucuri“ tam křičí chlapi,  
 na stromě, hle! Tam je! Vizte!  
 Na břehu pak tygra tlapy  
 otisk v hlíně třpytně čisté.
 
-  
+</section>
+
+<section>
 
 Od té doby jsem si přísahala, že budu taky taková. Svobodná. Plná nadšení, elánu, síly a chuti se do toho pořádně opřít. Šla jsem studovat práva. Chtěla jsem totiž spravedlnost. Spravedlnost pro dědečka. Pro celou naši rodinu. Vymazat ten starý nespravedlivý škraloup. Chtěla jsem bojovat. Být jako ta anakonda, co se utká s býkem, chtěla jsem všechno pohltit a se vším se vypořádat. A taky jsem se naučila střílet. Od maminky.
 
 Jenže ne všichni čeští chlapi byli takoví jako pan Dobeš. Některých jsem se i trochu bála. Měli v očích něco jiného než nadšení. V ruce drželi sklenku s kořalkou a sedávali v místní dřevěné kůlně s tuláky a námezdními lovci jaguárů, s indiánskými kopáči z Paraguaye, a když s nimi hráli karty o peníze, vynášeli česky trumfy. Říkala jsem si ale, že by si některý z nich mohl pamatovat… ne, vlastně ne, zajímalo mě, proč jsou z nich takové trosky, když by mohli být jako jiní baťováci, proč z nich vyprchalo to nadšení. Možná měl strýc Tomáš Baťa pravdu s tím, jak dělníkům zakazoval ve Zlíně pití, jak se štítil každé kapky alkoholu. Ale mě hlavně zajímal pan Laďa. Byl z prý z Hané a já se ho chtěla zeptat na kroje, na Moravu a chtěla jsem s ním mluvit, abych zase trochu opucovala svůj moravský přízvuk, rozšafné dědečkovo tož. Našla jsem pana Laďu v té kůlně, seděl na zemi a hlavou se opíral o dřevěné laťky. Bylo tam vedro jak v pekle a do kotle přikládala hejna komárů a pach potu a ohmataných karet. Přidřepla jsem k jeho promaštěným kalhotám a flekům na košili a kazatelsky se ho otázala: „Pane Laďo, nechcete jít domů, proč tady tak vysedáváte, ještě budete nemocný.“ Prohlédl si mě jak švába nakaženého žlutou horečkou a štítivě, ale rychle, jako by sám byl taky šváb, si odsedl dál do tmavého kouta. Nad hlavou mu jazýčkem kmitala malá ještěrka. „Tož ty di do prdele,“ řekl mi pan Laďa tak měkce, tak tiše, ale já to dobře slyšela. „Proč tak pijete?“ zmohla jsem se na hloupou otázku. Chlapi kolem, kteří se na nás dívali, na mě, slečinku z města ve světlých šatech s krajkou a blonďatým mikádem, a na bílého ožralu, co za něj už dávno nikdo neplatí panáky, protože to nikdy nikomu neoplatí, ti se nemohli nabažit toho podivného výjevu, který jsme jim zadarmo předváděli. „Vstaňte, pane Laďo, slyšíte, opřete se o mě a vstaňte,“ tahám ho na vzduch, nevím, co mě to popadlo, ale strašně chci, aby se dostal z té kůlny ven, teď hned. Aby vystřízlivěl, abych ho mohla zachránit. „Vstaňte, uvidíte, všecko bude dobré, jen teď vstaňte.“
+
+</section>

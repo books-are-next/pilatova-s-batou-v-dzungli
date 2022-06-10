@@ -3,9 +3,13 @@ title: Ludmila
 contentType: prose
 ---
 
+<section>
+
 Oči a dopisy
 
-  
+</section>
+
+<section>
 
 Rudynek mi včera psal. Dopis plný odevzdaného klidu. Zuřím. Jak může tak málo bojovat? Jak může psát takové dopisy!? Plné lásky, za kterou cítím lhostejnost. Vystopuju ji tam jako honicí pes lišku schovanou v bezovém houští. Třese se potmě a neví, kterým směrem má dál utíkat. I jeho písmo je takové. Malé, stísněné, špatně se čte, špatně se z něj rozeznává bolest, o níž tak pokorně, klidně píše a která šustí papírem. Je to vůbec pravda, nebo jen rafinovaná zdvořilost? Proč světový talent Rudy Firkušný není raději Nikola Šuhaj loupežník a neunese mě, nepřebrodí se mnou řeky a moře, oceány a světadíly, abychom se pak před všemi schovali v nějaké studené jeskyni a pekli si placky na ohni a zakusovali se do ještě syrového masa ze zvěřiny, co jsme holýma rukama skolili poté, co jsme ji štvali přes hory a doly?
 
@@ -18,3 +22,5 @@ A pak tady byly po dlouhých letech s mým bohatýrem Ljubodra­gem oči toho 
 Pamatuju si, jak mi s vážnou tváří a napůl nabručeně říkal, že na moje oči neexistuje správný odstín modré, protože on ještě nikdy takový odstín modrých očí neviděl. Říkal, že by musel vydloubnout oči nějaké siamské kočce a tu barvu z nich namíchat. Taky by jí prý musel vytrhat všechny chlupy a uvázat si s nimi nové štětce, aby mohl přesně vystihnout jemnost mé pleti. Máte doma nějakou takovou kočku, která by se dala položit na oltář vaší krásy? Otřásla jsem se odporem a vyčetla mu, že děsí Dolores. Jen se smál.
 
 Ale nechat mu ten obraz by bylo jako se mu dát. Být jeho. Viset u něj v pokoji a nechat se osahávat lačnýma, umělecky založenýma očima. Myslím, že i proto ten souboj mezi námi. O mě a o obraz. Samozřejmě neměl ani nejmenší šanci. Byl snad o padesát let starší a nebylo na něm nic, co bych mohla nějak obdivovat. Až na tu vášeň, která mě rozpalovala jako už máloco. Až na ty oči a na ty ruce, tak útlé jako pařátky vzácného ptáka.
+
+</section>
