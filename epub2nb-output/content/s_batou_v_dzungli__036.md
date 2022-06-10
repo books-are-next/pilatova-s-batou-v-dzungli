@@ -5,7 +5,11 @@ contentType: prose
 
 Moje zlato, stříbro a drahé kamení
 
+  
+
 Myslím, že nejvíc se nám všem líbilo Rio. Tata o něm psal zanícené, podle mě i hezké verše.
+
+  
 
 Rio květů, parků, stromů,  
 Rio zahrad, mrakodrapů,  
@@ -16,6 +20,8 @@ když tu chodím volným krokem
 zpocen přec a klidný zcela?  
 Rio zálivů a horstva,  
 Rio západů a barev.
+
+  
 
 Jezdili jsme tam, když jsme měli pocit, že nás provinční vzduch Batatuby a možná i Sao Paula dusí. Když se toho měla spousta vyřídit. Když se potřebovaly nakoupit nové knihy, německé, anglické a francouzské slovníky a nové romány nebo desky do mé sbírky. Když se potřebovalo jednat s důležitými lidmi, kteří si pěstovali svoje vily na těch temně zelených kopcích kolem zálivu jako divoké, vzácné orchideje. Když se mělo dít něco velkého, svěžího a krásného, jelo se do Ria. Když tata s maminkou zaveleli směr Rio, všechno se dalo do pohybu, začalo velké chystání, kupovaly se nové plavky a šaty, a já se nemohla dočkat, protože v Riu se dalo chodit na koncerty, kupovat si Brasil Musical a v něm číst články o Rudym, který tam často koncertoval. A já byla v Riu zase Lidkou ze Zlína, zase jsem jakoby sáhla na kousek života před válkou. Necítila jsem se tak vyhnaná, tak přesazená. Nemyslela jsem tolik na věci, na život opuštěný ve Zlíně, který ze mě trčel jako divné mateřské znaménko uprostřed čela. Rio bylo kulturní, a to se mi na něm líbilo mnohem víc než pláže. Byla tam výstavná kina a Casino Copacabana, kam jsme chodili tancovat, dostihy, kde jsem si občas vsadila, a byl tam moc milý Nelson. Kapitán vojenského námořnictva, jehož rodina se s naší přátelila a pomáhala Šéfovi, mému velkému tatovi, v jeho plánech. A Nelson si s tatou rozuměl jako málokdo, přestože byl skoro o třicet let mladší. Přeskočila mezi nimi taková zvláštní jiskra. Tata Nelsona uznával, jeho konexe, znalosti jazyků, vytříbené společenské chování. Ale asi hlavně to, že to byl Brazilec z vrstev, kam se cizinci nedostávali vůbec snadno. Tyhle kruhy, co se tady vytvářely od portugalské kolonie, prastaré rodiny uchvatitelů a drancovníků, co tady teď byly za místní nejvyšší šlechtu a smetánku tak bílou, že se nedala jen tak slíznout, ani si ji člověk nemohl nalít do kávy, i když měl spoustu peněz a továrny po celém světě. Nelson se v těchto kruzích pohyboval s velkou ladností a úplně přirozeně a tatovi to imponovalo. Nelsonovi zase tata připadal tak trochu exotický, s americkým rozletem a elánem, a navíc jsme byli z Evropy, a to se tady taky bralo za bernou, hodně silnou minci.
 

@@ -3,9 +3,9 @@ title: Ludmila
 contentType: prose
 ---
 
-  
-
 Oči a dopisy
+
+  
 
 Rudynek mi včera psal. Dopis plný odevzdaného klidu. Zuřím. Jak může tak málo bojovat? Jak může psát takové dopisy!? Plné lásky, za kterou cítím lhostejnost. Vystopuju ji tam jako honicí pes lišku schovanou v bezovém houští. Třese se potmě a neví, kterým směrem má dál utíkat. I jeho písmo je takové. Malé, stísněné, špatně se čte, špatně se z něj rozeznává bolest, o níž tak pokorně, klidně píše a která šustí papírem. Je to vůbec pravda, nebo jen rafinovaná zdvořilost? Proč světový talent Rudy Firkušný není raději Nikola Šuhaj loupežník a neunese mě, nepřebrodí se mnou řeky a moře, oceány a světadíly, abychom se pak před všemi schovali v nějaké studené jeskyni a pekli si placky na ohni a zakusovali se do ještě syrového masa ze zvěřiny, co jsme holýma rukama skolili poté, co jsme ji štvali přes hory a doly?
 

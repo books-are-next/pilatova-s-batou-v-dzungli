@@ -3,8 +3,6 @@ title: Dolores
 contentType: prose
 ---
 
-  
-
 Měla jsem tátu odvézt na farmu. Neměla jsem dovolit, aby zůstával v nemocnici, kde ho stejně nikdo nemohl vyléčit. Jenže bylo tady to bojování s bandou bezzemků. Musela jsem každou noc hlídat u zapáleného ohně a střílet u řeky. Kdyby zmerčili, že odjíždím, okamžitě by zaútočili. Nemohla jsem odjet z farmy a měla jsem strach tátu přivézt. Bylo to špatné rozhodnutí. Zasloužil si být tady. Jenže máma nechtěla, bála se stejně jako já. A strach není dobrý rádce. Je to podvraťák, co vždycky volí hladký ústup do závětří. A pak jsem si to vyčítala. To, že táta bloudil ulicemi města, které neměl rád. Máma ho nemohla najít. Věděla, že bude nejspíš na nádraží Barra Funda čekat na noční autobus do Nova Andradina, ale nebyl tam. Hledala ho policie, a když ho konečně našli na úplně jiném nádraží, byl skoro mrtvý. Dovezli ho do nemocnice, ale už bylo pozdě. Pozdě na to, aby si v klidu zakouřil, aby ráno snědl čerstvou housku s máslem.
 
 Tak jsem se alespoň držela. Držela jsem farmu, sháněla s kovboji stáda. Každý den v šest jsem byla v sedle a každý den jsem si umiňovala, že to vydržím. Každý den jsem si natírala hojivou mastí modřiny a puchýře na zadku odřeném od koženého sedla a sykala bolestí. A každý den to bylo lepší. Byla jsem daleko od všech starých křivd a chyb. Daleko. Dusot koňských kopyt po vyprahlé cestě, šplouchání krokodýlích ocasů v mělkých bažinách. Pískot komárů. Stíny sov. Vím, že je to hlavně úkryt. Útěk. Oddechový čas. Ale před čím vlastně? Před velkými ambicemi, které Ljubodrag tak nesnášel na dědovi? Před tím, co mohlo být, nebylo a nebude? Před dopisy a starými fotkami, které si mě tady stejně našly?

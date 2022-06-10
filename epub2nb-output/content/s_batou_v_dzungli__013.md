@@ -5,6 +5,8 @@ contentType: prose
 
 Všiváci
 
+  
+
 24 dkg mouky
 
 14 dkg másla
@@ -20,6 +22,8 @@ citronová šťáva a kůra z jednoho citronu
 Těsto se tence rozválí, formičkou vykrajuje a upeče.
 
 Upečené vždycky dva všiváky slepit marmeládou.
+
+  
 
 Hrozně se lepily na prsty. Těsto a marmeláda neměly proti vánočnímu horku v Batatubě šanci. Keksy s kolečkem uprostřed, do kterého se dávala jabuticabová nebo mangová marmeláda. Správně se to jmenuje jinak. Linecká kolečka mi ale nic neříkají, byli to prostě všiváci, protože se lepili na prsty jak smůla. Když jsem je pak ochutnala ve Zlíně, nebylo to ono. Stejně jako když jsem necítila nic z toho, co jsem si představovala, že ucítím, když se poprvé vrátím tam, kam se děda s babičkou vrátit nemohli. Chtěla jsem cítit svobodu, a místo toho jsem ucítila něhu. Něhu k těm příliš velkým budovám, k podmračenému nebi, které bylo najednou moc blízko a celé na mě padalo, místo aby mě prosvětlovalo a vedlo správným směrem, tak jako to umí brazilské nebe, které je vždycky vysoké, průzračné a nekonečné. A přece v Praze, kde mi všechno připadalo stísněné a přecpané temnou a krvavou historií, všechny ty kamenné mosty a barokní patos soch, všechno to umění, ty neskutečně propracované detaily a kamenné kostky marnotratně používané na cestách a na chodnících… to všechno mě naplňovalo něhou a obdivem a ještě něčím pochmurným, pro co jsem nikdy nenašla žádný výraz ani v češtině, ani v portugalštině. A hlavně jsem věděla, že k tomu všemu strašně patřím, že jsem to konečně opravdu já, kdo se choulí do kabátu a necítí se svobodná, ale s tím vším spřízněná. A taky na mě padá tíha, nostalgie, bolest. A vidím kamenné jizvy na té překrásné, příliš starobylé tváři města. Všechna ta nová a nová zrození z popela, všechna ta pro mě nepochopitelná vůle přežít, přežít všechno, co se tady vždycky převalí. Jak je možné, že jste si zachovali jazyk, jak je možné, že jste pořád přesto všechno tady? Je to obdiv a zároveň hrůza z těch jizev, z pochroumaného, popraskaného obrazu, který se zjevuje, jako by vystupoval ze závoje, z lehounkého tylu přehozeného přes tvář té země, odkud Jan Antonín a Maja s dětmi museli odejít. Jste vždycky první na ráně a všechno vaše skuhrání je podle mě z toho, jak jste celí pomačkaní dějinami. V Brazílii můžu být kdokoli, můžu být čímkoli, cítím tu volnost nekonečné země, země, kde nikdo nemusí žít s tolika jizvami. Patetická jsem po dědečkovi.
 
