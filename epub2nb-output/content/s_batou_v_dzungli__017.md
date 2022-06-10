@@ -3,10 +3,14 @@ title: Jindřich Waldes
 contentType: prose
 ---
 
+<section>
+
 (Zakladatel firmy KOH-I-NOOR, král knoflíkářského průmyslu, přítel Jana Antonína Bati,  
 jehož stopy končí v Havaně)
 
-  
+</section>
+
+<section>
 
 Když chtěli náckové Jendu podruhé zatknout, někdy v červnu v roce 1939, Dominik Čipera, jeden z jeho ředitelů, co se stal ministrem, ho varoval. A nejen on. Hučel do něj i Hugo Vavrečka a všichni jeho nejbližší spolupracovníci. Jenda sbalil kufry a rychle odjel do své továrny v Alsasku, ale ještě předtím mi stihl zavolat. Nevěřil jsem tomu. Co mě to tenkrát popadlo, ptával se mě pak často v Dachau Vojta Preissig, vůbec to nechápal. Ale já sám jsem sebe chápal moc dobře. Poznej sám sebe, to se přeci říká, ne? A myslím, že to byla vždycky moje výhoda. A tenkrát mě popadl vztek. Je to přeci normální, že člověka popadne vztek, když mu chtějí všechno vzít, všichni ho varují, všichni se strachují, co bude… já byl jenom vzteklý jako pes. Protože nikdo nic nedělal. Všichni se třásli strachy, nebo se falešně utěšovali, nebo balili kufry a brali kramle. Poslal jsem Ičku a děti do Států, ale sám jsem chtěl zůstat doma. Se svými. Se svou zrazenou vlastí. Já vím, teď to asi zní směšně, ale tenkrát, když všichni utíkali jako krysy, jako pavouci, jako mravenci před velkou vodou, tenkrát mi to dávalo smysl. A možná máte pravdu, ano, možná jsem v koutku duše doufal, že když mi patřil kdysi svět, který teď patří náckům, že možná budou dělat rozdíl mezi bohatým a chudým Židem. Čipera s Vavrečkou Jendovi pak vyčítali, že se mnou mluvil, prý by se to všechno mohlo prozradit. Ale Jenda měl dobré, velké srdce. Chtěl mi pomoct, i když jsem tak paličatě chtěl zůstat doma a nikam neutíkat. Chtěl mě poslat ven tak jako těch tři sta židovských rodin, které vysílal do svých továren všude po světě, aby neměly problémy s vízy a měly venku práci. Zachránil je tak všechny a mě chtěl zachránit taky. Sám si myslel, že svým lidem ve Zlíně bude prospěšnější venku, že zajistí větší výrobu a že bude podporovat ty, kteří pak osvobodí Československo. Kdoví, co si vlastně myslel…? Já jenom nechtěl utéct. Chtěl jsem zůstat se svou továrnou, se svými dělníky, se svými obrazy. Se svým dílem, jak by řekl patét Jeník Baťů. Byl jsem naivní? Byl jsem odvážný? Nic takového. Byl jsem jen vzteky bez sebe. Pamatuju si, jak jsem hodiny rázoval po pokoji a občas rozdrtil v dlani skleničku, takže mi pak musela služebná ruku vydezinfikovat a ovázat čistým kapesníkem. Střepy na zánovním peršanu. Někdy jsem služebnou ani nezavolal a díval jsem se, jak malé kapky krve prosakují mým vztekem. Bylo jasné, jak to všechno skončí. A stejně jsem zůstal. Najust.
 
@@ -20,11 +24,15 @@ Pamatuju si, jak jsem se sunul dolů po vlhké zdi, která voněla studenou plí
 
 Tenkrát jsem vůbec nechápal, jak to myslí, ale teď, když jsem umřel, mohl jsem se najednou podívat nejenom domů, ale za Jenem do Brazílie. Znáte to, duch vane, kudy chce. Viděl jsem, jak 20. září 1941 sedí u stroje a potí verše. Jak se i v něm začíná roztahovat malátná odevzdanost, ale jak mi chce udělat radost a psát tak, aby to vypadalo, že se věčně proti něčemu bouří. Umění nerozuměl, já ale ano. Ty verše mě dodnes dojímají, i když by je právem strhal kdejaký kritický škrabal. Ale raději si je poslechněte, protože je to prostě rozkošné. Škoda že mi je nemohli číst na pohřbu, protože žádný pohřeb v Havaně nebyl. Zmizel jsem. Kdoví, kde jsem vlastně zmizel? Odtáhla mě pak ta mulatka na dřevěné kárce do veřejné márnice, nebo mě s přítelem námořníkem naložili na nějakou kocábku a raději v zálivu hodili do moře? Svítil v tu noc měsíc? A co zrovna dělala Hedvika, moje krásná Ička, znalkyně obrazů, žena, kterou jsem opustil a poslal do Států samotnou, žena, která nemohla soupeřit ani s mým vztekem, ani s mou hloupou hrdostí? Stála v New Yorku u okna a nemohla spát? Ani já sám to dodnes dobře nedokážu popsat. Nemoc, zimnici a hned zase horko. Škoda že mi Jenda ty verše nemohl přečíst sám, a k vzteku, že je vůbec psal, že mu náckové poskytli tak mizerné téma k veršování. Ale poslechněte si je raději sami.
 
-  
+</section>
+
+<section>
 
 JINDŘICH WALDES ZEMŘEL
 
-  
+</section>
+
+<section>
 
 Po dvou letech v koncentráku propuštěn,  
 když výpalné zaplaceno.  
@@ -37,20 +45,26 @@ Když posléze vykoupili jej
 z neoprávněného zajetí,  
 zahynul cestou.
 
-  
+</section>
+
+<section>
 
 „Před přistáním“ v přístavě  
 na oceánu, kde kynula svoboda,  
 zahynul „náhle“, nežli mohl mluviti.
 
-  
+</section>
+
+<section>
 
 Co by byl mluvil hrozného,  
 kdyby nebyl zahynul cestou,  
 nežli poslední ze strážců  
 jej opustil?
 
-  
+</section>
+
+<section>
 
 Čeho se dopustil Jindřich Waldes?  
 Čeho, kromě toho, že byl českým Židem?  
@@ -61,11 +75,15 @@ Před přistáním na volné půdě?
 Proč ve chvíli, kdy mohl volně  
 mluviti a psáti?
 
-  
+</section>
+
+<section>
 
 Jendo, to bych taky rád věděl, řeknu ti, hrozně rád bych to věděl, ale nepamatuju si, jestli mi na lodi ten skopčák podstrčil jed, nebo stačila ta inzulinová injekce, jestli ta kyprá mulatka, která mi vařila černé fazole s rýží, jen špatně umyla listy salátu, a já umřel na střevní potíže, nebo jestli mi někdo hned v přístavu, v noci, kdy jsme museli vystoupit z lodi, vpálil v tmavé uličce kulku do týla, než mi sebral zlaté hodinky. Je to zvláštní, že to nevím, myslím si, že jsem to prostě vytěsnil, abych se tím po smrti nemusel zabývat. Na druhou stranu to ale na věci nic nemění. Čeho jsem se dopustil? Samozřejmě že ničeho. Stejně jako ty. Byl jsem jen „knoflíkový král“ nebo „Baťa knoflíků“. Jen jsem vymyslel patentku, vybudoval nejmodernější továrny v Čechách i po Evropě, prosadil jsem se ve Státech, dával práci tisícům lidí, staral se o to, aby se vzdělávali, aby mohli jezdit na zkušenou do ciziny, aby se učili jazyky, aby to nebyli ti malí čeští Honzové s nudlí u nosu, kteří nevědí, jak se správně používá lžička na dezert. A kupoval jsem výhradně české umění! Chtěl jsem, abychom si vážili sami sebe. Toho, co máme. Toho, co dokážeme. Stejně jako ty se občas projdu po Praze a dívám se na tu šílenou vilu uhlobarona Tykače, která se roztahuje na mém pozemku, místo mé obrazárny jakási betonová nestvůra. To se ten chlap nestydí? Kdybych mohl, předplatil bych mu vstupné do nějaké galerie a každou neděli by tam musel chodit a musel by si prohlížet kvalitní obrazy až do zavírací hodiny, dokud by nepoznal, co je hezké a co ne. Sedávám v Grébovce na schodech, co vedou kolem mé zahrady, a vzpomínám na naši vilu Marii, kterou ten chlap prý bez povolení zboural, aby místo ní mohl postavit bunkr. Ta kultivace českého národa uměním se mi tedy zrovna moc nepovedla. A dobře vím, že i ty se chodíš tajně dívat do svého pražského bytu, který ti sebrali. Procházíš se po pokojích a jsi vzteky bez sebe, že když tvoje vnučka přijede do Prahy, musí bydlet v hotelu. Pak jsi ještě napsal jednu báseň, ta se mi líbí trochu víc, protože mě tam vychvaluješ, a to mi samozřejmě lichotí. I když, všechna sláva polní tráva, jak jsem zjistil. Když kdysi František Kupka taky tak obdivně vzdychal nad mými úspěchy, pobočkami v Drážďanech, Paříži, Varšavě a New Yorku a říkal mi „Ty jsi mocný obr, a já vedle tebe jen malý vrabeček“, myslel to asi vážně. Jenže dnes je obr, o němž mluví celý ten svět, co jsem si ho tak rád bral do úst, on. Na mě se zapomnělo.
 
-  
+</section>
+
+<section>
 
 Z koncentráku vrat posléze  
 pustili jej. – Po jednání  
@@ -78,136 +96,178 @@ Knoflíky a spony hlavně
 v světě vyráběl a v Praze třicet roků neúnavně.  
 Žid byl. – To mu přišlo draze.
 
-  
+</section>
+
+<section>
 
 Továrny měl po Evropě  
 všude a i v Americe,  
 ač to začal jen tak, v šopě  
 kdysi dávno v republice.
 
-  
+</section>
+
+<section>
 
 Byl to člověk ušlechtilý,  
 dobře platil české lidi,  
 budoval jich schopnost, síly.  
 Jinak nežli mnozí Židi.
 
-  
+</section>
+
+<section>
 
 Na schopnostech lidí síly  
 českých v světě stavěl celém  
 podniky, jež rozmnožily  
 blaho v lidu zbídačelém.
 
-  
+</section>
+
+<section>
 
 Mimo práce, mecenášem  
 umění byl v Čechách všeho.  
 Vzorem ve prostředí našem  
 ducha vskutku vznešeného.
 
-  
+</section>
+
+<section>
 
 Galerie Waldesova  
 byla zrovna pokladnice,  
 jejíž sláva vždy a všude  
 pronikala za hranice.
 
-  
+</section>
+
+<section>
 
 Po zlomení vlasti naší  
 po Mnichově v republice  
 zůstal, ač jej všichni straší.  
 Neodešel za hranice.
 
-  
+</section>
+
+<section>
 
 Asi patnáctého března  
 – a to byl už termín krátký –  
 do Paříže jel a Řezna  
 a ještě se vrátil zpátky.
 
-  
+</section>
+
+<section>
 
 Obdiv zasluhuje vskutku  
 Jindřich Waldes vždy a dosud.  
 Proto tolik v srdcí smutku  
 vznáší jeho marný osud.
 
-  
+</section>
+
+<section>
 
 Přes moře když bílá křídla  
 vstříc jej nesla ku rodině,  
 smrt jej prvně v klidu shlídla.  
 Přistál Hádu na hladině.
 
-  
+</section>
+
+<section>
 
 Přistál Hádu na hladině? Ten Jenda se zbláznil! Možná že on přistál na nějaké hladině, ale já jsem se prostě jenom vypařil po zaplacení osmi milionů výkupného nacistům. On ale Jenda musel vždycky dočurat dál a přistát Hádu na hladině. Ale i ta poslední jeho veršovánka, co ji napsal o dva dny později, mě dojala. Kluk jeden ševcovská! Jen co zamáčknu slzu, hned vám ji přečtu. Paní Waldesové se to jmenuje.
 
-  
+</section>
+
+<section>
 
 Bohatýra  
 toho srdce neumírá.  
 Ruka věčná Všehomíra  
 stihne toho, pro nějž zmírá.
 
-  
+</section>
+
+<section>
 
 Nespočet dnes v světě lidí.  
 Bože, jak se člověk stydí  
 za své lidství, kdys to vidí,  
 kdo ten svět náš dneska řídí.
 
-  
+</section>
+
+<section>
 
 Lakýrníci, dobrodruzi,  
 lordi, bařtipáni, hrůzy,  
 mordy s ohněm se soudruzí.  
 Nechají co? Vlády lůzy.
 
-  
+</section>
+
+<section>
 
 Waldes Žid byl. Český prosím.  
 V nacistů se hnízdě vosím  
 octl s křížem křivonosým.  
 Zhynul v křídle albatrosím.
 
-  
+</section>
+
+<section>
 
 Svobodu když vykoupili  
 pro něj odtud jeho milí,  
 z koncentráku propustili,  
 posléze jej zhovadili.
 
-  
+</section>
+
+<section>
 
 Žid byl? Člověk dobrý, český.  
 Z ničeho se probil hezky.  
 Živil lidi. Vlastenecky cítil.  
 – Mecén umělecký.
 
-  
+</section>
+
+<section>
 
 Pláču po něm, po Židovi?  
 No, nechť se každý doví.  
 Živitel byl, že hned nový nepřijde hned po  
 Waldesovi.
 
-  
+</section>
+
+<section>
 
 Byl mým mistrem? Předkem v díle?  
 Ano. Šlechetný v své síle.  
 Světový muž věčné píle  
 v službě lidem zarputile.
 
-  
+</section>
+
+<section>
 
 Bože, dej mu novou práci.  
 Vrahu provaz na Pankráci.  
 Vláda jejich už se kácí.  
 Jindro, na Čechy jsou krátcí!
 
-  
+</section>
+
+<section>
 
 Dej mu, bože, jinou práci? Jen to ne, bože! Jeníku, ty hlavo skopová, já nechci pořád pracovat, mě baví moje obrazy, a na ty se můžu teď dívat, jak dlouho chci. Pozorovat je, kochat se, ale pracovat, bože chraň! Ty si klidně pracuj i po smrti, ale já budu zevlovat a brouzdat se po Praze a dívat se. Chci to město, které je krásnější než všechny obrazy, znova dýchat, cítit každý záchvěv jeho starého srdce. Ale rád bych koupil ten obraz, co má tvoje vnučka v obýváku, na ten se chodím dívat rád. Sedávám u něj a smlouvám s Ludmilou, nechce mi ho však prodat, prý vlastně ani není její, pořád patří tomu nabručenému Maďarovi. Škoda že jsem ho neobjevil dřív, ale kdo má pořád všechny ty mazaly objevovat, je jich celá armáda. Toho Maďara bych ale bral. Teď když vím, že Češi stejně nepochopili, že jsem jim chtěl pozvednout sebevědomí národním uměním, si můžou trhnout nohou. Nakoupil bych jiné obrazy a nenechal bych si do toho tolik mluvit Ičkou. A nechal bych si jenom Kupku, toho jsem měl doopravdy rád.
+
+</section>

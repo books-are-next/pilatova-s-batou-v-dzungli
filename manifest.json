@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-2e13e28",
-  "revision": "2e13e28",
+  "identifier": "pilatova-s-batou-v-dzungli-baf247f",
+  "revision": "baf247f",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -63,8 +63,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870738858
+    "date": "Fri Jun 10 2022 17:54:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883646392
   },
   "documents": [
     {
@@ -82,9 +82,9 @@
     {
       "title": "S Baťou v džungli",
       "file": "s_batou_v_dzungli__005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 4,
+      "chars": 20,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -102,9 +102,9 @@
     {
       "title": "S Baťou v džungli",
       "file": "s_batou_v_dzungli__006.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 14,
+      "chars": 64,
+      "ideas": 2,
       "role": "chapter",
       "order": 2,
       "prev": "s_batou_v_dzungli__005.html",
@@ -482,9 +482,9 @@
     {
       "title": "Dolores",
       "file": "s_batou_v_dzungli__025.html",
-      "words": 1,
-      "chars": 7,
-      "ideas": 1,
+      "words": 302,
+      "chars": 1735,
+      "ideas": 2,
       "role": "chapter",
       "order": 21,
       "prev": "s_batou_v_dzungli__024.html",
@@ -562,9 +562,9 @@
     {
       "title": "Edita",
       "file": "s_batou_v_dzungli__029.html",
-      "words": 1,
-      "chars": 5,
-      "ideas": 1,
+      "words": 533,
+      "chars": 3118,
+      "ideas": 2,
       "role": "chapter",
       "order": 25,
       "prev": "s_batou_v_dzungli__028.html",
@@ -642,9 +642,9 @@
     {
       "title": "Ljubodrag",
       "file": "s_batou_v_dzungli__033.html",
-      "words": 1,
-      "chars": 9,
-      "ideas": 1,
+      "words": 561,
+      "chars": 3133,
+      "ideas": 2,
       "role": "chapter",
       "order": 29,
       "prev": "s_batou_v_dzungli__032.html",
@@ -862,9 +862,9 @@
     {
       "title": "Ludmila",
       "file": "s_batou_v_dzungli__044.html",
-      "words": 1,
-      "chars": 7,
-      "ideas": 1,
+      "words": 344,
+      "chars": 2005,
+      "ideas": 2,
       "role": "chapter",
       "order": 40,
       "prev": "s_batou_v_dzungli__043.html",
@@ -942,9 +942,9 @@
     {
       "title": "Ljubodrag",
       "file": "s_batou_v_dzungli__048.html",
-      "words": 1,
-      "chars": 9,
-      "ideas": 1,
+      "words": 737,
+      "chars": 4235,
+      "ideas": 2,
       "role": "chapter",
       "order": 44,
       "prev": "s_batou_v_dzungli__047.html",
@@ -1062,9 +1062,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 122,
-      "chars": 755,
-      "ideas": 15,
+      "words": 89,
+      "chars": 582,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "s_batou_v_dzungli__053.html",
@@ -1082,14 +1082,14 @@
   ],
   "totals": {
     "all": {
-      "words": 77335,
-      "chars": 451874,
+      "words": 79792,
+      "chars": 465974,
       "ideas": 723
     },
     "chapters": {
-      "words": 77206,
-      "chars": 451083,
-      "ideas": 705
+      "words": 79696,
+      "chars": 465356,
+      "ideas": 713
     }
   }
 }

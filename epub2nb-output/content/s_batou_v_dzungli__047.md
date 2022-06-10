@@ -3,18 +3,26 @@ title: Edita
 contentType: prose
 ---
 
+<section>
+
 Lída mě v tom nechala samotnou. Onemocněla, ztrácela se a odcházela. Musela jsem převzít štafetu. Našla jsem právníky, kteří zkoušeli všechno možné, a v roce 2004 mi poslali do Brazílie kopii stanoviska tehdejšího ministerstva financí. Je to zajímavé čtení a vynikající ukázka toho, jak se pohádka o Chytré horákyni dá využít v politické praxi. Vlastně jsem je obdivovala. Tehdy ještě tatínek nebyl českým soudem očištěn, to se povedlo až v roce 2007, ale tři roky předtím psal vysvětlující stanovisko tehdejší ministr financí Bohuslav Sobotka tehdejšímu předsedovi vlády Stanislavu Grossovi. Šlo o žádost Tomíka, tedy syna Tomáše Bati staršího, který se dožadoval náhrady za znárodněný majetek už v roce 1973. Tehdejší ministr financí doporučoval opatrnost a apeloval na politickou citlivost celé kauzy „Baťa“, ať už se jedná o Tomíka, nebo Jana Antonína.
 
-  
+</section>
+
+<section>
 
 „V rámci přípravy majetkoprávních jednání s Kanadou byl proveden právní rozbor situace, která nastala po tragické smrti Tomáše Bati staršího v roce 1932. Rozbor, který zpracovala Advokátní poradna č. 1, Praha 1, Národní třída 32, vychází ze skutečnosti, podle níž po smrti Tomáše Bati v roce 1932 byl v trezoru Tomáše Bati staršího nalezen TEXT KUPNÍ SMLOUVY ZE DNE 10. 5. 1931, podle níž TOMÁŠ BAŤA STARŠÍ PRODÁVÁ SVÉMU BRATROVI JANU BAŤOVI VEŠKERÝ FIREMNÍ MAJETEK ZA 50 MIL. KČ. Text kupní smlouvy byl podepsán Tomášem Baťou starším, avšak nebyl v době nálezu textu podepsán Janem A. Baťou. Po nalezení textu a po poradě s právníky Jan A. Baťa k textu dopsal slova „souhlasím a kupuji“. Poté nastal spor mezi Tomášem Baťou mladším, jeho matkou Marií Baťovou a Janem Antonínem Baťou o platnost zmíněné smlouvy. Šlo o právní problém, zda lze platně uzavřít kupní smlouvu s mrtvou osobou. Zahraniční soudy, které věc projednávaly v různých státech, nebyly jednotné. Např. v Brazílii, kde měla firma Baťa značný majetek, soud rozhodl ve prospěch Jana A. Bati, naproti tomu např. ve Švýcarsku a Kanadě zase ve prospěch Tomáše Bati mladšího. Ve sporu hrálo roli také údajné prohlášení Marie Baťové, která v něm uznala kupní smlouvu. Z ROZBORU VYPRACOVANÉHO ADVOKÁTNÍ PORADNOU VYPLYNULO, ŽE VLASTNÍKEM AKCIÍ FIRMY TOMÁŠE BATI STARŠÍHO SE STAL NA ZÁKLADĚ KUPNÍ SMLOUVY Z ROKU 1931 JAN A. BAŤA. Ten se však údajně dopustil kolaborace s Němci (dodávky obuvi německé armádě) a byl na americkém seznamu válečných zločinců. Proto byl jeho nárok na náhradu za znárodněný majetek odmítnut z titulu konfiskace.
 
 ČSL. OFICIÁLNÍ STANOVISKO TEDY BYLO: TOMÁŠ BAŤA MLADŠÍ NEMÁ NÁROK NA NÁHRADU ZA ZNÁRODNĚNÍ FIRMY BAŤA, A. S., PROTO, ŽE NEBYL V DOBĚ ZNÁRODNĚNÍ VLASTNÍKEM AKCIÍ TÉTO FIRMY, A JAN A. BAŤA NEMÁ NÁROK NA NÁHRADU PROTO, ŽE BYL KOLABORANTEM. Poznámka: Jan A. Baťa i Tomáš Baťa požádali po znárodnění o náhradu, a to Jan Baťa žádostí ze dne 14. října 1948 a Tomáš Baťa mladší žádostí ze dne 10. července 1949.“
 
-  
+</section>
+
+<section>
 
 Takže stručně a jasně – Tomíkovi nic nedáme, protože mu firma nepatří, a Janovi Antonínovi nic nedáme, protože ho komunisti a jejich Národní soud prohlásili za kolaboranta a fašistu. A je to.
 
 Smekám před tou logikou. Jenže dnes už tatínek kolaborantem, zrádcem a fašistou není. Očistil ho v roce 2007 řádný demokratický a nestranný soud. A od té doby prohráváme jednu soudní při o majetek, který nám patří, za druhou. Očištění jména totiž nestálo nic. Nároky na náhradu zabaveného a znárodněného majetku firma Baťa, a. s., a majetku Jana Antonína Bati a mé maminky paní Marie Baťové, rozené Gerbecové, a její rodiny by stály miliardy. A to si nikdo nemůže dovolit. Nechce.
 
 Držím se dál. Od všech pocitů křivdy. Možná jako jediná. Zlín mě nepřekvapil tolik jako Lídu. Pro mě bylo důležité, že jsem jela vlakem zpátky domů a že jsem tam skutečně dojela. Vystoupila jsem na nádraží ve Zlíně z toho svinského vlaku, co jsem v něm jako Šípková Růženka uvízla na půl století. Mohla jsem se vrátit do země, kde jsem doma teď. Nelson mě vzal za ruku a začal mě poučovat o současné hospodářské reformě. Ráda jsem si to poslechla, i když jsem si o tom myslela něco úplně jiného než on. Byl to dobrý pocit, držet někoho, koho jsem celé ty roky chtěla a měla, za ruku. Byla to moje volba. Můj život. Nenechala jsem si ho protéct mezi prsty a bylo mi jedno, že v skrytu duše mnou Lída tak trochu pohrdá, protože si myslí, že mi Nelson moc poroučí. Jenže já jsem potřebovala cítit váhu. Stejnou těžkou váhu, jako měl tatínek. Byla jsem na to zvyklá a potřebovala jsem to. Ten vlak mi totiž tíhu vzal. Byla jsem strašně lehounká, celá hubená, ptačí žena, která nic neváží a nic neznamená, kterou může odnést jedno bouchnutí dveří, jedno otočení esesáka, jeden náhodný špatný krok. Z celé rodiny jsem byla jediná, kdo tohle zažil. Já a pak ještě Ljubodrag. Nebyla vůbec náhoda, že jen my dva jsme ta brazilská léta žili tak, jako bychom se nikdy neměli vracet. Jen já a Ljubodrag jsme věděli, jak je život otřesně křehký a náhodný. Jak jsme hození do vlaku chaosu a někdy se prostě nemusí podařit vystoupit. Všichni ostatní kolem nás se pořád ohlíželi, chtěli to, co dávno nemohli mít, a nechtěli si to nikdy přiznat. I když jsem byla ve Zlíně a stála před naším domem v Nadkostelí, necítila jsem žádný vztek jako Lída. Ta se vzteky doslova třásla a rozčíleně klepala kovovým koncem hole o dláždění. Já ne. Ten dům vypadal tak trochu jako já. Byl pořád stejně postavený, ale uvnitř už to nebyl ten samý dům. Někdo změnil jeho účel a on to pochopil. Ale přesto jsem dál z Brazílie komandovala právníky, psala jim e-maily a skypovala si s nimi. Nevzdávala jsem se. Byla jsem Baťová.
+
+</section>
