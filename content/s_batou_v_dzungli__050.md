@@ -3,15 +3,17 @@ title: Jan Antonín
 contentType: prose
 ---
 
-  
-
 Jsem zase čistý. A byl jsem u toho. Nikdo mě neviděl ani necítil, ale přesto jsem tam tentokrát mohl být. Sedl jsem si dozadu do poslední řady židlí v soudní síni a vyslechl si rozhodnutí, které mě zbavilo vší špíny, kterou na mě naházely dějiny. Nebo konkrétní lidé. To je jedno, jak tomu budu říkat, protože dějiny, to jsou konkrétní lidé. Nikdo jiný dějinami nehýbe. Je to důležité, že už na mě nekydá nikdo hnůj lží? Ani ne. Pár článků v novinách a zpráva ČTK:
+
+  
 
 Žalobci po šedesáti letech od odsuzujícího rozsudku očistili jméno zlínského podnikatele Jana Antonína Bati, který dostal v roce 1947 v nepřítomnosti 15 let vězení za to, že se veřejně nepřihlásil do odboje proti nacistům. Městský soud v Praze letos rozsudek zrušil a žalobci nyní dospěli k závěru, že je Jan Antonín Baťa nevinný.
 
 „Nebyl spáchán žádný trestný čin, věc byla bez dalších opatření založena,“ řekla mluvčí pražského městského státního zastupitelství Štěpánka Zenklová.
 
 Podle nynějších zjištění měl Národní soud už před 60 lety k dispozici důkazy svědčící ve prospěch J. A. Bati, nijak se jimi však nezabýval. Z archivních materiálů mimo jiné vyplynulo, že Baťovy podniky financovaly československou vládu v Londýně a posílaly příspěvky v řádech desetitisíců liber či dolarů na protinacistické aktivity – třeba na pomoc uprchlíkům z Francie. J. A. Baťa také pomohl asi třem stovkám židovských rodin uprchnout před nacismem do Kanady, USA, Mexika, Číny. Rodiny svých zaměstnanců tam poslal za prací.
+
+  
 
 Pár blahopřejných telefonátů a e-mailů Editě a Doloresce: „_Zlínská radnice, která o očištění jména J. A. Bati již dlouho usilovala, rozhodnutí soudu přivítala s nadšením. ‚Mám z toho obrovskou radost,‘ reagovala zlínská primátorka Irena Ondrová. Tajemník radnice Zdeněk Mikel se ihned telefonicky spojil s Baťovou rodinou žijící v Brazílii._“
 

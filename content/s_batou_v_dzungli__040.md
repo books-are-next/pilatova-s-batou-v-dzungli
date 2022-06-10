@@ -9,7 +9,11 @@ _Kate Atkinson_
 
 Praha volá Zlín
 
+  
+
 Čistím ten lustr jednou za rok. Kapka křišťálového světla ke kapce. Železná konstrukce. Skleněné slzy. Jednou si služka chtěla ušetřit práci, a místo aby lustr při čištění obešla, kroutila s ním tak dlouho, až jí spadl na hlavu. Naštěstí to přežila. Letos čistím lustr sama, několik dní pečlivě ukládám na bílý ubrus staré křišťálové kapky s tenkými drátěnými háčky. Drátky jsou zrezivělé, některé se mi lámou pod prsty. Musím v Sao Paulu koupit jiné, ale pořád to odkládám, protože to už nebudou naše staré háčky. Budou to nové a úplně jiné háčky Poslouchám Chopina. Není to ale ono. Z hi-fi věže to zní příliš dokonale, mrtvolně. Starý maminčin klavír stojí trpělivě pod plachtou a už dlouho ho nikdo nenaladil, natož aby na něj hrál. Vrství se na něm její a dědečkovy české knihy, které se snažím opravit, zbavit červotočů a jiných zakuklených hmyzích vetřelců, které sem vysílá zapomnění. Čistím lustr, jako jsme ho čistili pokaždé před Vánoci, aby se všechna ta nádhera leskla a třpytila, odrážela světlo a boží milost na Štědrý den. Vůně mýdla, rozpuštěného másla z kuchyně, leštidla na sklo, měkkých hadýrek a maminčin klavír z obývacího pokoje. Je uklidňující to každý rok opakovat, přestože teď už lustr nečistím na Vánoce, ale kdy mě to zrovna napadne. Čistit lustr. Poslouchat Chopina a myslet na Babiše. To je prý dnes ministr financí. Andrej Babiš mi totiž nedávno napsal dopis. Byl v hezké obálce s hlavičkou a napsaný anglicky. To mě naštvalo. Přece jsem s ním na autogramiádě dědečkova románu mluvila česky. On mluvil slovensky a já česky. Tak proč mi teď proboha píše anglicky, když na konci dopisu připojil kopii naší společné fotky z té autogramiády. Asi ten dopis poslala jeho sekretářka, která se sice snažila, ale výsledek je ten, že jsem se naštvala, ještě než jsem ten dopis začala číst. Anglicky! Anglicky umím dobře, vždyť mám ve Státech tetu a bratrance, ale že bych chtěla číst anglicky dopisy o českých záležitostech, to mi připadá směšné. No dobře, sama sobě jsem přikázala nebýt podrážděná a začetla jsem se do toho psaní. Pan Babiš chtěl, abych ho podpořila ve volbách, protože si vždycky vážil mého dědečka a celého baťováckého odkazu. Nemohla jsem tomu dopisu uvěřit. Člověk, jehož firma Agrofert vlastnila náš zámek v Napajedlích až do roku 2008, a pak ho zase prodala, mi anglicky píše, abych ho podpořila ve volbách. Nevím, jestli to něco o něčem vypovídá. Na to si netroufám, na takové úvahy. Jen o tom přemýšlím a čistím maminčin lustr. Chtěla bych vědět, co si o tom Ludmila Baťová myslí. Vidím ji, jak výhružně klape čaganem, který když byla starší, už skoro neodkládala, ale který jí nebránil jezdit rychle na koni a v autě nebo rázovat rozčíleně po pokoji, když ji něco popudilo. Vím, co by řekla: „Co si ten chlap vlastně o sobě myslí?! Ten má nápady jak staré schody!“ A taky vím, co by panu Babišovi odepsala. Zkouším si to představit co nejpřesněji. Sedám k počítači a píšu. Kontroluju slova, kterými si nejsem jistá, ve slovníku. Cítím, že některé věty znějí asi nepodařeně, ale je mi to jedno.
+
+  
 
 _25\. 9. 2013_
 
@@ -45,7 +49,11 @@ V polovině října cestuji do Spojených států a do Prahy se podívám v p
 
 Přeju mnoho zdraví a úspěchu ve volbách Vašemu hnutí ANO.
 
+  
+
 Pamatuju si moc dobře na to, jak jsem byla poprvé v Bojnici. V nejkrásnějším zámku ve střední Evropě, jak tvrdila průvodkyně. V roce 1939 ho koupily Baťovy závody sídlící v nedalekém Partizánském neboli Baťovanech. Děda mi vyprávěl, kolik stály investice do místních lázní, a sliboval mi, že se tam jednou společně vycachtáme v termálních pramenech. Ukazoval mi taky jednu báseň, kterou o Bojnici napsal, když ho tady v Brazílii začalo trápit revma a on se toužil jet léčit do Bojnice:
+
+  
 
 Větší trápení snad není  
 na revma či suché dření.  
@@ -54,10 +62,14 @@ trvají, těm neuteče
 nikdo. – Uleví jen klení  
 a to jen pro okamžení.
 
+  
+
 Chlapa – obra – dření změní  
 v pesimistu bez nadšení,  
 jak by síla těla jeho  
 nechala jej bezmocného.
+
+  
 
 Bahno Píšťan, od Teplice,  
 co jsme měli v republice,  
@@ -65,6 +77,8 @@ co jsme měli v republice,
 zvlášť dokud válka plane.  
 Vykoupat se u Bojnice  
 toť lék proti revmatice.
+
+  
 
 Jednou tam spolu pojedeme. Vezmeme si nějaké staré plavky, aby je mohlo bahno klidně zničit, a vyrazíme tam. „To budeš, cérečko, čubrnět.“ Místo toho čubrním na jeden povedený článek na internetu: „_Baťovská doba, kdy průmyslník koupil zámek, na Slovensku vlastnil rozsáhlé majetky, obuvnické továrny stály ve městech Svit a Partizánské. Na základě nařčení z kolaborace byly majetky zabaveny, před časem bratislavský soud toto rozhodnutí zrušil a bývalým majitelům se otevřela cesta k vydání majetku. Má to ale mnoho ale…_“
 
@@ -84,7 +98,12 @@ Ale druhý den mi to stejně nedá. Tentokrát si k čištění lustru nepoušt
 
 „_Soudní síň se vyprázdnila a otevřenými okny se nese ruch z Karlova náměstí,_“ stačí ještě říct lumen Mach a najednou se z počítače, na kterém si tu hrůzu pouštím, začne ozývat záhadné drnčení, cédéčko rotuje jak šílené, pak se zastaví a je konec. Nic. Naslouchám tichu. Milému panu Machovi skočil počítač do řeči, asi už to nemohl vydržet. Zkusím lehounký, kovově stříbrný stroj vypnout a zase zapnout. Nic. Umanutě cédéčko strkám do počítače, vyndávám ho. Zapínám a vypínám počítač. Jako bych nevěděla, jak to celé dopadlo. Jako bych nemohla jít do vedlejšího pokoje a pustit si to na hi-fi věži. Nakonec si místo Macha pustím Chopina. Pak chvíli háčkuju, abych se uklidnila. Moc to ale nepomáhá, tak si vezmu nejstarší kyjovský kroj a začnu látat žlutou mašli. Drobounké stehy mě nakonec dokážou jakž takž uchlácholit. Vyšívám dlouho do noci. A ve snech rozbíjím hubu Machovi, Valentovi a spol. a stejně jako dědovi obhájci křičím, protestuju a divoce šermuju rukama.
 
+  
+  
+
 Prázdná židlička
+
+  
 
 Ráno vstanu v šest a pořádně se nasnídám. Přepudruju se, rty obtáhnu červenou rtěnkou a vyfoukám si mikádo. Nastříkám na sebe Hypnotic Poison od Diora a nešetřím. Mám ráda silné ovocné vůně, tu směs pudru a voňavky, kterou jsem vdechovala v Batatubě, protože maminka i babička používaly obě silné voňavky od Diora nebo od Chanelu a nenalíčené nechodily ani dojit krávy. Pamatuju si, jak babička vstávala o půl šesté a vyrážela na svůj „kafezál“, jak se říkalo nejmíň tisícovce kávových keřů. Svítalo a ona si to rázovala do kopce, a její Chanel No. 5 za ní vlál jako prapor dokonalé dámy. Obleču si bílou košili a džíny. Nasoukám se do pořádných kožených bot. Do termosky si udělám horkou silnou kávu bez cukru a jedu na farmu. Nejdřív ale hledám klíče od domu. Pak od auta. Pak se vracím pro paralen, kdyby mě cestou rozbolela hlava. Konečně sedím za volantem a hrkotám se džípem dvě hodiny po rozblácené cestě. Občas v duchu zkontroluju, jestli mám v kufru lopatu, kdybych zapadla. Onehdá jsem cestou ztratila kus nárazníku, zůstal trčet v bahně jak nějaká plastová kostra. Vyhýbám se výmolům a loužím a myslím na všiváka Macha. Cédéčko si vezu s sebou. Chci si ho pustit v klidu na farmě v malém pokoji s knihovnou, kde mám kulatý stůl s háčkovanou dečkou a kde se dokážu soustředit. Umiňuju si, že to vydržím nejmíň půl hodiny. Dlužím to dědovi. Musím vědět přesně, jaké to bylo. Nebo to aspoň slyšet.
 

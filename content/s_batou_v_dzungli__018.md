@@ -5,29 +5,43 @@ contentType: prose
 
 „Přijedu tam ve správnou chvíli sám, neboť jsem rozhodnut se tam jednou vrátiti. Vrátiti se do Zlína.“
 
+  
+
 Někdy v Praze potkávám Jindru Waldese, ale vyhýbám se mu. Cítím, že stejně jako já ještě nechce nechat všechno být. A že by se vyptával. A že bych neměl odpovědi. A že by si chtěl povídat. A já nemám na řeči náladu. Do Zlína se skoro vůbec nevydávám. Nemám na to dost elánu. No dobře. Nemůžu tam. Všechno by tam na mě mluvilo. Vykládalo. Příběhy spí ve zdech a cihlách domů. Vcházejí i do našich snů. Nemusím na tom místě hned být, abych si ho mohl představovat. Mám ho přece v sobě a dodnes dýchám jeho vzduch. Do Brazílie se taky občas podívám, přeci jen dali mi občanství, vážili si mě tam. Nápady, které malým Čecháčkům připadaly velikášské, obdivovali. Brazilský prezident Getúlio Vargas se nebál rozmachu, nemyslel si, že stromy nemají růst příliš vysoko do nebe, protože ta jeho ohromná země by ani nesnesla někoho, kdo nezvládá přemýšlet rozmáchle a velkoryse. Měl s Brazílií velké plány, stejně jako já. A tak jsem mu věnoval báseň:
 
+  
+
 VARGAS
+
+  
 
 Jenom jeden zrodil se tu král  
 V této nové, převeliké zemi.  
 Jeden jenom za titul ten stál,  
 Umělť vládnout řádem, nadějemi.
 
+  
+
 Jen ten jeden velký v malých tříšti  
 Zrodil se v té zemi za let stovku,  
 Schopný stavět této země příští,  
 Fantastické jako verneovku.
+
+  
 
 Jeden Vargas jenom se tu zrodil  
 Z tlupy holořitných vřešťanů;  
 Jediný, jenž za vládce se hodil  
 Této velké země křesťanů.
 
+  
+
 Byl to člověk horizontů, stepí,  
 nichž se zrodil pampě na jižní.  
 Viděl. Ti kol něj však byli slepí,  
 Malí, úzkoprsí, hamižní.
+
+  
 
 Vybudoval jsem pro toho brazilského velikána v nehostinných oblastech fungující města, moje malé Zlíny. Brazilci to dodnes považují za vizionářský zázrak a pokrok a dokonce mě chtěli navrhnout na Nobelovu cenu míru jako brazilského kandidáta. Tohle ale připadalo velikášské zase mně. Přišlo mi, že jejich generál Rondon, který nezastřelil ani jednoho indiána a naopak se jich zastával, kde mohl, si tu cenu zaslouží mnohem víc. Stejně se ale do Brazílie vracím jenom málokdy. A na místa, která by se mohla někomu zdát úplně zbytečná. Třeba ke stromu volavek za Batayporou. Tam se mi ale nepovedlo vybudovat žádnou továrnu, jak jsem si představoval. Chtěl jsem, aby lidi měli práci, a zároveň jsem chtěl každému, kdo se usadí, prodat malý pozemek, aby si mohl vypěstovat, co potřebuje. Nevedla tam žádná pořádná silnice a lidi museli být samostatní a sebevědomí. Měli by práci a zároveň půdu, tohle jsem chtěl, tohle bylo to pravé, co zdejší pustiny potřebovaly. Tohle jsem pro ně vymyslel. A taky jsem si říkal, že by se to hrozně líbilo Tominovi, protože ten mi jednou v létadle říkal: „Kdyby tak přišlo pořádné zemětřesení, které by zpustošilo celý kraj, aby se tyhle ubohé chalupy tady zbořily! Pak by se mohly postavit nové domy a svět by žasl, jaký lid by mohl povstat z našich Slováků a Hanáků.“ Tak tady by, milý Tomino, nemuselo přijít žádné zemětřesení. Tady stačilo jen vypálit a přemoci divoký prales. Tady by se bývalo mohlo stavět doslova na zelené pastvině, tady jsem mohl uskutečnit všechno to, o čem jsme snili, skloubit tempo a výhody průmyslového města s poklidem a krásou venkovského života. Jenže tehdy už jsem bojoval na dvou frontách. Se synovcem Tomíkem a jeho matkou o dědictví a s komunisty o Zlín a o čest. Kapitál se ztenčoval, pomluvy utěšeně bujely, jako by se živily vší tou mizérií, a síly docházely.
 
@@ -43,11 +57,11 @@ Jednou, když jsem zabloudil na Vinohrady, potuloval se Grébovkou a hleděl na
 
 Tak třeba si přečtěte tohle:
 
+  
+
 Já, Vladimír Váňa, bytem v Sao Paulo, rua Copacabana 94, činím následující prohlášení:
 
 S Janem Baťou jsem přijel do Brazílie z USA v roce 1940 a byl jsem v jeho službách až do roku 1946. Byl jsem s ním v úzkém styku a vím, že nechtěl vystupovat otevřeně ve prospěch Spojenců jedině proto, aby to nevyvolalo represálie okupantů proti jeho lidem, tj. zaměstnancům ve Zlíně. Jeho postoj tedy byl věcí taktiky, a ne přesvědčení. Nikomu nebránil ve výkonu vojenské služby v zahraničí, naopak říkal, že si každý v této věci má dělat, co chce. Vím také, že nikomu nebránil přispívat na zahraniční odboj a my jsme také přispívali. Podpisovou akci v Brazílii proti Janu Baťovi organizoval dr. Udržal z osobních důvodů, text prohlášení nepokládám za správný, jeho obsah pravdě neodpovídá, byl podepsán ukvapeně mnou a myslím, že i ostatní jej ani pořádně nečetli, poněvadž by jej nebyli mohli podepsat
-
-  
 
 _Sao Paulo. 30. ledna 1968_
 
@@ -56,6 +70,8 @@ _Vladimír Váňa, v. r._
 Tak oni to ani pořádně nečetli! No to se na ně podívejme, asi měli zrovna moc práce, protože si museli prát podělaná kaťata.
 
 Nebo tohle, tohle je od Franty Klátila, zrovna od něj jsem to čekal nejmíň! Byl v Batatubě od začátku, ale asi jsem opravdu nikdy nebyl dobrý znalec lidí, protože jsem si o nich vždycky chtěl myslet to lepší, abych nepodléhal pesimismu, který jsem považoval za tu největší slabost a vadu na lidské duši.
+
+  
 
 Já, František Klátil, narozený 29. ledna 1911 ve Zlíně, bytem Batatuba, činím toto prohlášení:
 

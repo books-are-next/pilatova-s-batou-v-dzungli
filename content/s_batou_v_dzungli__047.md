@@ -3,13 +3,15 @@ title: Edita
 contentType: prose
 ---
 
-  
-
 Lída mě v tom nechala samotnou. Onemocněla, ztrácela se a odcházela. Musela jsem převzít štafetu. Našla jsem právníky, kteří zkoušeli všechno možné, a v roce 2004 mi poslali do Brazílie kopii stanoviska tehdejšího ministerstva financí. Je to zajímavé čtení a vynikající ukázka toho, jak se pohádka o Chytré horákyni dá využít v politické praxi. Vlastně jsem je obdivovala. Tehdy ještě tatínek nebyl českým soudem očištěn, to se povedlo až v roce 2007, ale tři roky předtím psal vysvětlující stanovisko tehdejší ministr financí Bohuslav Sobotka tehdejšímu předsedovi vlády Stanislavu Grossovi. Šlo o žádost Tomíka, tedy syna Tomáše Bati staršího, který se dožadoval náhrady za znárodněný majetek už v roce 1973. Tehdejší ministr financí doporučoval opatrnost a apeloval na politickou citlivost celé kauzy „Baťa“, ať už se jedná o Tomíka, nebo Jana Antonína.
+
+  
 
 „V rámci přípravy majetkoprávních jednání s Kanadou byl proveden právní rozbor situace, která nastala po tragické smrti Tomáše Bati staršího v roce 1932. Rozbor, který zpracovala Advokátní poradna č. 1, Praha 1, Národní třída 32, vychází ze skutečnosti, podle níž po smrti Tomáše Bati v roce 1932 byl v trezoru Tomáše Bati staršího nalezen TEXT KUPNÍ SMLOUVY ZE DNE 10. 5. 1931, podle níž TOMÁŠ BAŤA STARŠÍ PRODÁVÁ SVÉMU BRATROVI JANU BAŤOVI VEŠKERÝ FIREMNÍ MAJETEK ZA 50 MIL. KČ. Text kupní smlouvy byl podepsán Tomášem Baťou starším, avšak nebyl v době nálezu textu podepsán Janem A. Baťou. Po nalezení textu a po poradě s právníky Jan A. Baťa k textu dopsal slova „souhlasím a kupuji“. Poté nastal spor mezi Tomášem Baťou mladším, jeho matkou Marií Baťovou a Janem Antonínem Baťou o platnost zmíněné smlouvy. Šlo o právní problém, zda lze platně uzavřít kupní smlouvu s mrtvou osobou. Zahraniční soudy, které věc projednávaly v různých státech, nebyly jednotné. Např. v Brazílii, kde měla firma Baťa značný majetek, soud rozhodl ve prospěch Jana A. Bati, naproti tomu např. ve Švýcarsku a Kanadě zase ve prospěch Tomáše Bati mladšího. Ve sporu hrálo roli také údajné prohlášení Marie Baťové, která v něm uznala kupní smlouvu. Z ROZBORU VYPRACOVANÉHO ADVOKÁTNÍ PORADNOU VYPLYNULO, ŽE VLASTNÍKEM AKCIÍ FIRMY TOMÁŠE BATI STARŠÍHO SE STAL NA ZÁKLADĚ KUPNÍ SMLOUVY Z ROKU 1931 JAN A. BAŤA. Ten se však údajně dopustil kolaborace s Němci (dodávky obuvi německé armádě) a byl na americkém seznamu válečných zločinců. Proto byl jeho nárok na náhradu za znárodněný majetek odmítnut z titulu konfiskace.
 
 ČSL. OFICIÁLNÍ STANOVISKO TEDY BYLO: TOMÁŠ BAŤA MLADŠÍ NEMÁ NÁROK NA NÁHRADU ZA ZNÁRODNĚNÍ FIRMY BAŤA, A. S., PROTO, ŽE NEBYL V DOBĚ ZNÁRODNĚNÍ VLASTNÍKEM AKCIÍ TÉTO FIRMY, A JAN A. BAŤA NEMÁ NÁROK NA NÁHRADU PROTO, ŽE BYL KOLABORANTEM. Poznámka: Jan A. Baťa i Tomáš Baťa požádali po znárodnění o náhradu, a to Jan Baťa žádostí ze dne 14. října 1948 a Tomáš Baťa mladší žádostí ze dne 10. července 1949.“
+
+  
 
 Takže stručně a jasně – Tomíkovi nic nedáme, protože mu firma nepatří, a Janovi Antonínovi nic nedáme, protože ho komunisti a jejich Národní soud prohlásili za kolaboranta a fašistu. A je to.
 
