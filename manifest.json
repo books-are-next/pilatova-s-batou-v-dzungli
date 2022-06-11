@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-baf247f",
-  "revision": "baf247f",
+  "identifier": "pilatova-s-batou-v-dzungli-dbe402a",
+  "revision": "dbe402a",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -63,8 +63,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:54:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883646392
+    "date": "Sat Jun 11 2022 12:08:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949335834
   },
   "documents": [
     {
