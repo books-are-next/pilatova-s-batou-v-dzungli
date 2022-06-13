@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-dbe402a",
-  "revision": "dbe402a",
+  "identifier": "pilatova-s-batou-v-dzungli-624068e",
+  "revision": "624068e",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -63,8 +63,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:08:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949335834
+    "date": "Mon Jun 13 2022 21:56:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157412256
   },
   "documents": [
     {
@@ -1062,9 +1062,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 89,
-      "chars": 582,
-      "ideas": 7,
+      "words": 122,
+      "chars": 755,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "s_batou_v_dzungli__053.html",
@@ -1082,9 +1082,9 @@
   ],
   "totals": {
     "all": {
-      "words": 79792,
-      "chars": 465974,
-      "ideas": 723
+      "words": 79825,
+      "chars": 466147,
+      "ideas": 731
     },
     "chapters": {
       "words": 79696,
