@@ -11,8 +11,9 @@ meta:
   author: Markéta Pilátová
   publisher: Městská knihovna v Praze
   modified: '2021-09-01T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
   isbn: 978-80-274-1786-5; 978-80-274-1785-8; 978-80-274-1787-2
+  edition: beletrie
 readingOrder:
   - promo.html
   - s_batou_v_dzungli__005.html
