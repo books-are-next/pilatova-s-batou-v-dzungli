@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-ffd8918",
-  "revision": "ffd8918",
+  "identifier": "pilatova-s-batou-v-dzungli-755a92a",
+  "revision": "755a92a",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -61,11 +61,11 @@
     "s_batou_v_dzungli__051.html",
     "s_batou_v_dzungli__052.html",
     "s_batou_v_dzungli__053.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:21:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979665893
+    "date": "Thu Jul 07 2022 08:36:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183000237
   },
   "documents": [
     {
@@ -1049,7 +1049,7 @@
       "role": "chapter",
       "order": 49,
       "prev": "s_batou_v_dzungli__052.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1062,11 +1062,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 142,
-      "chars": 937,
+      "chars": 936,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "s_batou_v_dzungli__053.html",
       "next": null,
@@ -1083,8 +1083,8 @@
   ],
   "totals": {
     "all": {
-      "words": 79846,
-      "chars": 466337,
+      "words": 79845,
+      "chars": 466341,
       "ideas": 733
     },
     "chapters": {

@@ -65,7 +65,7 @@ readingOrder:
   - s_batou_v_dzungli__051.html
   - s_batou_v_dzungli__052.html
   - s_batou_v_dzungli__053.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
