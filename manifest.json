@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-565175a",
-  "revision": "565175a",
+  "identifier": "pilatova-s-batou-v-dzungli-d233514",
+  "revision": "d233514",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -64,8 +64,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:32:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487171344
+    "date": "Sat Oct 01 2022 16:01:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640109249
   },
   "documents": [
     {
