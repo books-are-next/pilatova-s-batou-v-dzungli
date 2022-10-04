@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pilatova-s-batou-v-dzungli-d233514",
-  "revision": "d233514",
+  "identifier": "pilatova-s-batou-v-dzungli-4cd5881",
+  "revision": "4cd5881",
   "readingOrder": [
     "promo.html",
     "s_batou_v_dzungli__005.html",
@@ -64,8 +64,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640109249
+    "date": "Tue Oct 04 2022 16:50:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902200163
   },
   "documents": [
     {
@@ -1063,9 +1063,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 142,
+      "words": 140,
       "chars": 937,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "s_batou_v_dzungli__053.html",
@@ -1083,9 +1083,9 @@
   ],
   "totals": {
     "all": {
-      "words": 79846,
+      "words": 79844,
       "chars": 466337,
-      "ideas": 733
+      "ideas": 731
     },
     "chapters": {
       "words": 79696,
